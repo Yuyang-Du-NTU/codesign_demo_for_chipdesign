@@ -1,0 +1,13 @@
+
+mcdp{
+    
+    # global req & pro
+    requires adder__input_a [dimensionless]
+    requires adder__input_b [dimensionless]
+
+    provides adder__output = required adder__input_a + required adder__input_b
+
+    
+}
+
+#mcdp-solve -d test_computation.mcdplib adder '<1200>' --imp --plot --out 'test_computation.mcdplib.outputs'

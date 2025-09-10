@@ -1,0 +1,9 @@
+dp{
+    # global req & pro
+    requires ChipArea_re_HW2NAS [dimensionless]
+    provides NASArea_re_HW2NAS [dimensionless]
+
+implemented-by yaml resource("test_area.yaml")
+}
+#mcdp-solve -d test.mcdplib test '0' --lower '10'
+mcdp-solve -d test.mcdplib test '0' --lower '10' --imp --plot --out 'test.mcdplib.outputs'

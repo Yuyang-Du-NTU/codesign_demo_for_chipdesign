@@ -1,0 +1,42 @@
+F:
+- 'dimensionless' #Throughtput__gpu
+R:
+- 'dimensionless' #Cost_Computation_gpu
+- 'dimensionless' #Power
+implementations:
+  gpu0:
+    f_max:
+    - '10'
+    r_min:
+    - '8'
+    - '7'
+  gpu1:
+    f_max:
+    - '10'
+    r_min:
+    - '7'
+    - '8'
+  gpu2:
+    f_max:
+    - '8'
+    r_min:
+    - '6'
+    - '6'
+  gpu3:
+    f_max:
+    - '5'
+    r_min:
+    - '4'
+    - '1'
+  gpu4:
+    f_max:
+    - '2'
+    r_min:
+    - '2'
+    - '1'
+  gpu5:
+    f_max:
+    - '2'
+    r_min:
+    - '1'
+    - '2'

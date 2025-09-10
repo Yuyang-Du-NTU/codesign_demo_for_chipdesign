@@ -1,0 +1,22 @@
+
+mcdp{
+
+    sub Computation__timeforgpu  = instance `Computation__time
+    sub Computation__timeforcpu  = instance `Computation__time    
+    
+    provides outputs [dimensionless]
+    #provided outputs <= adder__output provided by adder0
+    provided outputs <= Computation__time__proOutput_time provided by Computation__timeforgpu + Computation__time__proOutput_time provided by Computation__timeforcpu
+
+    # global req & pro
+
+    
+    requires inputa [dimensionless]
+    requires inputb [dimensionless]
+    required inputa >= Computation__time__reqInput_time required by Computation__timeforgpu
+    required inputb >= Computation__time__reqInput_time required by Computation__timeforcpu
+    
+    
+}
+
+#mcdp-solve -d test_computation.mcdplib debug_adder '<1200>' --imp --plot --out 'test_computation.mcdplib.outputs'

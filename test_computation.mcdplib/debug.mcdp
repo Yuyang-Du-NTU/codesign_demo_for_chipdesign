@@ -1,0 +1,52 @@
+
+mcdp{
+    # instances 
+    Computation__cpu = instance `Computation__cpu
+    Computation__gpu  = instance `Computation__gpu
+    Computation__timeforgpu  = instance `Computation__time
+    Computation__timeforcpu  = instance `Computation__time
+    #Computation__timeforself  = instance `Computation__time
+    
+    # global req & pro
+    requires Computation__self__reqTime [dimensionless]
+    requires Computation__self__reqCost [dimensionless]
+    requires Computation__self__reqPower [dimensionless]
+
+    provides Computation__self__proSoftware__reqTime [dimensionless]
+    provides Computation__self__proHardware__reqTime [dimensionless]
+
+    # declare for internal variables
+    internal__Computation__cpu__proThroughtput = Computation__cpu__proThroughtput provided by Computation__cpu
+    internal__Computation__timeforcpu__proOutput_time = Computation__time__proOutput_time provided by Computation__timeforcpu
+
+    internal__Computation__gpu__proThroughtput = Computation__gpu__proThroughtput provided by Computation__gpu
+    internal__Computation__timeforgpu__proOutput_time = Computation__time__proOutput_time provided by Computation__timeforgpu
+
+    internal__Computation__timeforcpu__reqInput_time = Computation__time__reqInput_time required by Computation__timeforcpu
+    internal__Computation__timeforgpu__reqInput_time = Computation__time__reqInput_time required by Computation__timeforgpu
+    
+    internal__Computation__cpu__reqCost = Computation__cpu__reqCost required by Computation__cpu 
+    internal__Computation__gpu__reqCost = Computation__gpu__reqCost required by Computation__gpu
+
+
+    internal__Computation__cpu__reqPower = Computation__cpu__reqPower required by Computation__cpu
+    internal__Computation__gpu__reqPower = Computation__gpu__reqPower required by Computation__gpu
+
+
+    # calculation
+    internal__Computation__self__proHardware__reqTime = (internal__Computation__cpu__proThroughtput * internal__Computation__timeforcpu__proOutput_time)
+    internal__Computation__self__proSoftware__reqTime = (internal__Computation__gpu__proThroughtput * internal__Computation__timeforgpu__proOutput_time)
+    internal__Computation__self__reqTime = (internal__Computation__timeforcpu__reqInput_time + internal__Computation__timeforgpu__reqInput_time)
+
+
+    # interconnection for self
+    provided Computation__self__proHardware__reqTime <= internal__Computation__self__proHardware__reqTime
+    provided Computation__self__proSoftware__reqTime <= internal__Computation__self__proSoftware__reqTime
+    # provided Computation__self__proHardware__reqTime <= max(internal__Computation__cpu__proThroughtput, internal__Computation__timeforcpu__proOutput_time)
+    # provided Computation__self__proSoftware__reqTime <= max(internal__Computation__gpu__proThroughtput, internal__Computation__timeforgpu__proOutput_time)
+    required Computation__self__reqTime >= internal__Computation__self__reqTime
+    required Computation__self__reqCost >= internal__Computation__cpu__reqCost + internal__Computation__gpu__reqCost
+    required Computation__self__reqPower >= internal__Computation__cpu__reqPower + internal__Computation__gpu__reqPower
+}
+
+#mcdp-solve -d test_computation.mcdplib debug '<1200,1200>' --imp --plot --out 'test_computation.mcdplib.outputs'
