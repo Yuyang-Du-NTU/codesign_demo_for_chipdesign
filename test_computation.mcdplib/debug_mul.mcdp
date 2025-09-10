@@ -5,14 +5,13 @@ mcdp{
     sub Computation__timeforcpu  = instance `Computation__time    
     
     provides outputs [dimensionless]
-    provided outputs <= Computation__time__proOutput_time provided by Computation__timeforgpu + Computation__time__proOutput_time provided by Computation__timeforcpu
+    provided outputs <= Computation__time__proOutput_time provided by Computation__timeforgpu · Computation__time__proOutput_time provided by Computation__timeforcpu
 
     requires inputa [dimensionless]
     requires inputb [dimensionless]
     required inputa >= Computation__time__reqInput_time required by Computation__timeforgpu
     required inputb >= Computation__time__reqInput_time required by Computation__timeforcpu
-    
-    
+
 }
 
-#mcdp-solve -d test_computation.mcdplib debug_adder '<120>' --imp --plot --out 'test_computation.mcdplib.outputs' --lower '100'
+#mcdp-solve -d test_computation.mcdplib debug_mul '<360>' --imp --plot --out 'test_computation.mcdplib.outputs' --lower '10'
