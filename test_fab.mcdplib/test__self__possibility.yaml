@@ -1,0 +1,599 @@
+F:
+  - "dimensionless"       # Computation__possibility__output_possibility
+R:
+  - "dimensionless"       # Computation__possibility__input_possibility
+implementations:
+  possibility1.0_up100_total100:
+    f_max:
+      - "1.0"
+    r_min:
+      - "1.0"
+        
+  possibility2.0_up100_total100:
+    f_max:
+      - "2.0"
+    r_min:
+      - "2.0"
+        
+  possibility3.0_up100_total100:
+    f_max:
+      - "3.0"
+    r_min:
+      - "3.0"
+        
+  possibility4.0_up100_total100:
+    f_max:
+      - "4.0"
+    r_min:
+      - "4.0"
+        
+  possibility5.0_up100_total100:
+    f_max:
+      - "5.0"
+    r_min:
+      - "5.0"
+        
+  possibility6.0_up100_total100:
+    f_max:
+      - "6.0"
+    r_min:
+      - "6.0"
+        
+  possibility7.0_up100_total100:
+    f_max:
+      - "7.0"
+    r_min:
+      - "7.0"
+        
+  possibility8.0_up100_total100:
+    f_max:
+      - "8.0"
+    r_min:
+      - "8.0"
+        
+  possibility9.0_up100_total100:
+    f_max:
+      - "9.0"
+    r_min:
+      - "9.0"
+        
+  possibility10.0_up100_total100:
+    f_max:
+      - "10.0"
+    r_min:
+      - "10.0"
+        
+  possibility11.0_up100_total100:
+    f_max:
+      - "11.0"
+    r_min:
+      - "11.0"
+        
+  possibility12.0_up100_total100:
+    f_max:
+      - "12.0"
+    r_min:
+      - "12.0"
+        
+  possibility13.0_up100_total100:
+    f_max:
+      - "13.0"
+    r_min:
+      - "13.0"
+        
+  possibility14.0_up100_total100:
+    f_max:
+      - "14.0"
+    r_min:
+      - "14.0"
+        
+  possibility15.0_up100_total100:
+    f_max:
+      - "15.0"
+    r_min:
+      - "15.0"
+        
+  possibility16.0_up100_total100:
+    f_max:
+      - "16.0"
+    r_min:
+      - "16.0"
+        
+  possibility17.0_up100_total100:
+    f_max:
+      - "17.0"
+    r_min:
+      - "17.0"
+        
+  possibility18.0_up100_total100:
+    f_max:
+      - "18.0"
+    r_min:
+      - "18.0"
+        
+  possibility19.0_up100_total100:
+    f_max:
+      - "19.0"
+    r_min:
+      - "19.0"
+        
+  possibility20.0_up100_total100:
+    f_max:
+      - "20.0"
+    r_min:
+      - "20.0"
+        
+  possibility21.0_up100_total100:
+    f_max:
+      - "21.0"
+    r_min:
+      - "21.0"
+        
+  possibility22.0_up100_total100:
+    f_max:
+      - "22.0"
+    r_min:
+      - "22.0"
+        
+  possibility23.0_up100_total100:
+    f_max:
+      - "23.0"
+    r_min:
+      - "23.0"
+        
+  possibility24.0_up100_total100:
+    f_max:
+      - "24.0"
+    r_min:
+      - "24.0"
+        
+  possibility25.0_up100_total100:
+    f_max:
+      - "25.0"
+    r_min:
+      - "25.0"
+        
+  possibility26.0_up100_total100:
+    f_max:
+      - "26.0"
+    r_min:
+      - "26.0"
+        
+  possibility27.0_up100_total100:
+    f_max:
+      - "27.0"
+    r_min:
+      - "27.0"
+        
+  possibility28.0_up100_total100:
+    f_max:
+      - "28.0"
+    r_min:
+      - "28.0"
+        
+  possibility29.0_up100_total100:
+    f_max:
+      - "29.0"
+    r_min:
+      - "29.0"
+        
+  possibility30.0_up100_total100:
+    f_max:
+      - "30.0"
+    r_min:
+      - "30.0"
+        
+  possibility31.0_up100_total100:
+    f_max:
+      - "31.0"
+    r_min:
+      - "31.0"
+        
+  possibility32.0_up100_total100:
+    f_max:
+      - "32.0"
+    r_min:
+      - "32.0"
+        
+  possibility33.0_up100_total100:
+    f_max:
+      - "33.0"
+    r_min:
+      - "33.0"
+        
+  possibility34.0_up100_total100:
+    f_max:
+      - "34.0"
+    r_min:
+      - "34.0"
+        
+  possibility35.0_up100_total100:
+    f_max:
+      - "35.0"
+    r_min:
+      - "35.0"
+        
+  possibility36.0_up100_total100:
+    f_max:
+      - "36.0"
+    r_min:
+      - "36.0"
+        
+  possibility37.0_up100_total100:
+    f_max:
+      - "37.0"
+    r_min:
+      - "37.0"
+        
+  possibility38.0_up100_total100:
+    f_max:
+      - "38.0"
+    r_min:
+      - "38.0"
+        
+  possibility39.0_up100_total100:
+    f_max:
+      - "39.0"
+    r_min:
+      - "39.0"
+        
+  possibility40.0_up100_total100:
+    f_max:
+      - "40.0"
+    r_min:
+      - "40.0"
+        
+  possibility41.0_up100_total100:
+    f_max:
+      - "41.0"
+    r_min:
+      - "41.0"
+        
+  possibility42.0_up100_total100:
+    f_max:
+      - "42.0"
+    r_min:
+      - "42.0"
+        
+  possibility43.0_up100_total100:
+    f_max:
+      - "43.0"
+    r_min:
+      - "43.0"
+        
+  possibility44.0_up100_total100:
+    f_max:
+      - "44.0"
+    r_min:
+      - "44.0"
+        
+  possibility45.0_up100_total100:
+    f_max:
+      - "45.0"
+    r_min:
+      - "45.0"
+        
+  possibility46.0_up100_total100:
+    f_max:
+      - "46.0"
+    r_min:
+      - "46.0"
+        
+  possibility47.0_up100_total100:
+    f_max:
+      - "47.0"
+    r_min:
+      - "47.0"
+        
+  possibility48.0_up100_total100:
+    f_max:
+      - "48.0"
+    r_min:
+      - "48.0"
+        
+  possibility49.0_up100_total100:
+    f_max:
+      - "49.0"
+    r_min:
+      - "49.0"
+        
+  possibility50.0_up100_total100:
+    f_max:
+      - "50.0"
+    r_min:
+      - "50.0"
+        
+  possibility51.0_up100_total100:
+    f_max:
+      - "51.0"
+    r_min:
+      - "51.0"
+        
+  possibility52.0_up100_total100:
+    f_max:
+      - "52.0"
+    r_min:
+      - "52.0"
+        
+  possibility53.0_up100_total100:
+    f_max:
+      - "53.0"
+    r_min:
+      - "53.0"
+        
+  possibility54.0_up100_total100:
+    f_max:
+      - "54.0"
+    r_min:
+      - "54.0"
+        
+  possibility55.0_up100_total100:
+    f_max:
+      - "55.0"
+    r_min:
+      - "55.0"
+        
+  possibility56.0_up100_total100:
+    f_max:
+      - "56.0"
+    r_min:
+      - "56.0"
+        
+  possibility57.0_up100_total100:
+    f_max:
+      - "57.0"
+    r_min:
+      - "57.0"
+        
+  possibility58.0_up100_total100:
+    f_max:
+      - "58.0"
+    r_min:
+      - "58.0"
+        
+  possibility59.0_up100_total100:
+    f_max:
+      - "59.0"
+    r_min:
+      - "59.0"
+        
+  possibility60.0_up100_total100:
+    f_max:
+      - "60.0"
+    r_min:
+      - "60.0"
+        
+  possibility61.0_up100_total100:
+    f_max:
+      - "61.0"
+    r_min:
+      - "61.0"
+        
+  possibility62.0_up100_total100:
+    f_max:
+      - "62.0"
+    r_min:
+      - "62.0"
+        
+  possibility63.0_up100_total100:
+    f_max:
+      - "63.0"
+    r_min:
+      - "63.0"
+        
+  possibility64.0_up100_total100:
+    f_max:
+      - "64.0"
+    r_min:
+      - "64.0"
+        
+  possibility65.0_up100_total100:
+    f_max:
+      - "65.0"
+    r_min:
+      - "65.0"
+        
+  possibility66.0_up100_total100:
+    f_max:
+      - "66.0"
+    r_min:
+      - "66.0"
+        
+  possibility67.0_up100_total100:
+    f_max:
+      - "67.0"
+    r_min:
+      - "67.0"
+        
+  possibility68.0_up100_total100:
+    f_max:
+      - "68.0"
+    r_min:
+      - "68.0"
+        
+  possibility69.0_up100_total100:
+    f_max:
+      - "69.0"
+    r_min:
+      - "69.0"
+        
+  possibility70.0_up100_total100:
+    f_max:
+      - "70.0"
+    r_min:
+      - "70.0"
+        
+  possibility71.0_up100_total100:
+    f_max:
+      - "71.0"
+    r_min:
+      - "71.0"
+        
+  possibility72.0_up100_total100:
+    f_max:
+      - "72.0"
+    r_min:
+      - "72.0"
+        
+  possibility73.0_up100_total100:
+    f_max:
+      - "73.0"
+    r_min:
+      - "73.0"
+        
+  possibility74.0_up100_total100:
+    f_max:
+      - "74.0"
+    r_min:
+      - "74.0"
+        
+  possibility75.0_up100_total100:
+    f_max:
+      - "75.0"
+    r_min:
+      - "75.0"
+        
+  possibility76.0_up100_total100:
+    f_max:
+      - "76.0"
+    r_min:
+      - "76.0"
+        
+  possibility77.0_up100_total100:
+    f_max:
+      - "77.0"
+    r_min:
+      - "77.0"
+        
+  possibility78.0_up100_total100:
+    f_max:
+      - "78.0"
+    r_min:
+      - "78.0"
+        
+  possibility79.0_up100_total100:
+    f_max:
+      - "79.0"
+    r_min:
+      - "79.0"
+        
+  possibility80.0_up100_total100:
+    f_max:
+      - "80.0"
+    r_min:
+      - "80.0"
+        
+  possibility81.0_up100_total100:
+    f_max:
+      - "81.0"
+    r_min:
+      - "81.0"
+        
+  possibility82.0_up100_total100:
+    f_max:
+      - "82.0"
+    r_min:
+      - "82.0"
+        
+  possibility83.0_up100_total100:
+    f_max:
+      - "83.0"
+    r_min:
+      - "83.0"
+        
+  possibility84.0_up100_total100:
+    f_max:
+      - "84.0"
+    r_min:
+      - "84.0"
+        
+  possibility85.0_up100_total100:
+    f_max:
+      - "85.0"
+    r_min:
+      - "85.0"
+        
+  possibility86.0_up100_total100:
+    f_max:
+      - "86.0"
+    r_min:
+      - "86.0"
+        
+  possibility87.0_up100_total100:
+    f_max:
+      - "87.0"
+    r_min:
+      - "87.0"
+        
+  possibility88.0_up100_total100:
+    f_max:
+      - "88.0"
+    r_min:
+      - "88.0"
+        
+  possibility89.0_up100_total100:
+    f_max:
+      - "89.0"
+    r_min:
+      - "89.0"
+        
+  possibility90.0_up100_total100:
+    f_max:
+      - "90.0"
+    r_min:
+      - "90.0"
+        
+  possibility91.0_up100_total100:
+    f_max:
+      - "91.0"
+    r_min:
+      - "91.0"
+        
+  possibility92.0_up100_total100:
+    f_max:
+      - "92.0"
+    r_min:
+      - "92.0"
+        
+  possibility93.0_up100_total100:
+    f_max:
+      - "93.0"
+    r_min:
+      - "93.0"
+        
+  possibility94.0_up100_total100:
+    f_max:
+      - "94.0"
+    r_min:
+      - "94.0"
+        
+  possibility95.0_up100_total100:
+    f_max:
+      - "95.0"
+    r_min:
+      - "95.0"
+        
+  possibility96.0_up100_total100:
+    f_max:
+      - "96.0"
+    r_min:
+      - "96.0"
+        
+  possibility97.0_up100_total100:
+    f_max:
+      - "97.0"
+    r_min:
+      - "97.0"
+        
+  possibility98.0_up100_total100:
+    f_max:
+      - "98.0"
+    r_min:
+      - "98.0"
+        
+  possibility99.0_up100_total100:
+    f_max:
+      - "99.0"
+    r_min:
+      - "99.0"
+        

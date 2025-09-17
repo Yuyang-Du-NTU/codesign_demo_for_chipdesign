@@ -1,0 +1,14 @@
+
+dp{
+    # global req & pro
+    requires Hardware__self__reqPossibility [dimensionless]
+    requires Hardware__self__reqTime [dimensionless]
+    requires Hardware__self__Layers [`Network]
+    
+    provides ael [product(area: dimensionless, energy: dimensionless, latency: dimensionless)]
+
+    # database
+    implemented-by yaml resource("Hardware.yaml")
+}
+
+# mcdp-solve -d test_hardware.mcdplib Hardware '<[10,10,10]>' --imp --plot --out 'test_hardware.mcdplib.outputs' --nocache --lower '10' --upper '10'

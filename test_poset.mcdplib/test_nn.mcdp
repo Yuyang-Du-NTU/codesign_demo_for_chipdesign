@@ -1,0 +1,14 @@
+
+dp{
+    # global req & pro
+    requires Software__self__reqPossibility [dimensionless]
+    requires Software__self__reqTime [dimensionless]
+
+    provides Software__self__Layers [`layout]
+    provides Software__self__Accuracy [dimensionless]
+
+    # database
+    implemented-by yaml resource("nn.yaml")
+}
+
+# mcdp-solve -d test_poset.mcdplib test_nn '<`layout:nn5, 82>' --imp --plot --out 'test_poset.mcdplib.outputs' --nocache --lower '10' --upper '10'

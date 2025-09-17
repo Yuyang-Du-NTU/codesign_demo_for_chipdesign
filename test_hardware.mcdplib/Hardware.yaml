@@ -1,0 +1,30 @@
+F:
+  - "dimensionless"       # a
+  - "dimensionless"       # e
+  - "dimensionless"       # l
+R:
+  - "dimensionless"       # Software__self__reqPossibility
+  - "dimensionless"       # Software__self__reqTime
+  - "`Network"            # Software__self__reqLayers
+
+implementations:
+  asic0_0:
+    f_max:
+      - "10"
+      - "10"
+      - "10"
+    r_min:
+      - "1.4286"
+      - "350"
+      - "`Network:nn0"
+  asic0_1:
+    f_max:
+      - "10"
+      - "20"
+      - "10"
+    r_min:
+      - "1.6"
+      - "200"
+      - "`Network:nn0"
+
+  

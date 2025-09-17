@@ -34,11 +34,11 @@ mcdp{
 
 
     # interconnection for self
-    provided Computation__self__proHardware__reqTime <= internal__Computation__cpu__proThroughtput + internal__Computation__timeforcpu__proOutput_time
-    provided Computation__self__proSoftware__reqTime <= internal__Computation__gpu__proThroughtput + internal__Computation__timeforgpu__proOutput_time
+    provided Computation__self__proHardware__reqTime <= internal__Computation__cpu__proThroughtput * internal__Computation__timeforcpu__proOutput_time
+    provided Computation__self__proSoftware__reqTime <= internal__Computation__gpu__proThroughtput * internal__Computation__timeforgpu__proOutput_time
     required Computation__self__reqTime >= internal__Computation__timeforcpu__reqInput_time + internal__Computation__timeforgpu__reqInput_time
     required Computation__self__reqCost >= internal__Computation__cpu__reqCost + internal__Computation__gpu__reqCost
     required Computation__self__reqPower >= internal__Computation__cpu__reqPower + internal__Computation__gpu__reqPower
 }
 
-#mcdp-solve -d test_computation.mcdplib Computation '<1200,1200>' --imp --plot --out 'test_computation.mcdplib.outputs'
+#mcdp-solve -d test_computation.mcdplib Computation '<120,300>' --imp --plot --out 'test_computation.mcdplib.outputs' --lower '100' --upper '100'

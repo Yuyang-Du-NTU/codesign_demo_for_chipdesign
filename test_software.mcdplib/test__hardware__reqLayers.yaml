@@ -1,0 +1,76 @@
+F:
+  - "dimensionless"       # Computation__cost__output_cost
+R:
+  - "dimensionless"       # Computation__cost__input_cost
+implementations:
+  nn0_up5000_total5000:
+    f_max:
+      - "nn0"
+    r_min:
+      - "nn0"
+        
+  nn1_up5000_total5000:
+    f_max:
+      - "nn1"
+    r_min:
+      - "nn1"
+
+  nn2_up5000_total5000:
+    f_max:
+      - "nn2"
+    r_min:
+      - "nn2"
+
+  nn3_up5000_total5000:
+    f_max:
+      - "nn3"
+    r_min:
+      - "nn3"
+
+  nn4_up5000_total5000:
+    f_max:
+      - "nn4"
+    r_min:
+      - "nn4"
+
+  nn5_up5000_total5000:
+    f_max:
+      - "nn5"
+    r_min:
+      - "nn5"
+
+  nn6_up5000_total5000:
+    f_max:
+      - "nn6"
+    r_min:
+      - "nn6"
+
+  nn7_up5000_total5000:
+    f_max:
+      - "nn7"
+    r_min:
+      - "nn7"
+
+  nn8_up5000_total5000:
+    f_max:
+      - "nn8"
+    r_min:
+      - "nn8"
+
+  nn9_up5000_total5000:
+    f_max:
+      - "nn9"
+    r_min:
+      - "nn9"
+
+  nn10_up5000_total5000:
+    f_max:
+      - "nn10"
+    r_min:
+      - "nn10"
+
+  nn11_up5000_total5000:
+    f_max:
+      - "nn11"
+    r_min:
+      - "nn11"

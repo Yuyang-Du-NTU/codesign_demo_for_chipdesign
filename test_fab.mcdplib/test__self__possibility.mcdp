@@ -1,0 +1,10 @@
+dp{
+    # global req & pro
+    requires test__self__possibility__reqInput_possibility [dimensionless]
+    provides test__self__possibility__proOutput_possibility [dimensionless]
+
+    # database
+    implemented-by yaml resource("test__self__possibility.yaml")
+}
+
+#mcdp-solve -d test_fab.mcdplib test__self__possibility '500' --imp --plot --out 'test_fab.mcdplib.outputs' --nocache

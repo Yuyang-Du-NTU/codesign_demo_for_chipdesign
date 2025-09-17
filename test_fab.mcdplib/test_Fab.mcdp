@@ -1,0 +1,40 @@
+
+mcdp{
+    # instance
+    sub sub__test__fab = instance `Fab
+
+    # resources for testing instance 
+    sub sub__test__hw = instance `sub__test__hw__area
+    sub sub__test__self__cost = instance `test__self__cost
+    sub sub__test__self__possibility = instance `test__self__possibility
+
+    # global req & pro
+    requires test__self__Fab__self__reqPossibility [dimensionless]
+    requires test__self__Fab__self__reqCost [dimensionless]
+    provides test__self__Fab__self__proNumber_yield [dimensionless]
+
+
+
+
+    required test__self__Fab__self__reqPossibility       >= test__self__possibility__proOutput_possibility provided by sub__test__self__possibility
+    required test__self__Fab__self__reqCost              >= test__self__cost__proOutput_cost provided by sub__test__self__cost
+
+
+    test__self__possibility__proInput_possibility  required by sub__test__self__possibility       >= Fab__self__reqPossibility required by sub__test__fab
+    test__self__cost__proInput_cost                required by sub__test__self__cost              >= Fab__self__reqCost required by sub__test__fab
+    
+    
+    Fab__self__reqHardware__proArea required by sub__test__fab>= sub__test__hw__area__proOutput_area provided by sub__test__hw
+    
+
+    
+    provided test__self__Fab__self__proNumber_yield <= Fab__self__proNumber_yield provided by sub__test__fab
+
+
+
+
+
+}
+
+#mcdp-solve -d test_fab.mcdplib test_Fab '8' --imp --plot --out 'test_fab.mcdplib.outputs' --nocache
+

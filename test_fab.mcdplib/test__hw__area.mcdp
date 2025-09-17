@@ -1,0 +1,10 @@
+dp{
+    # global req & pro
+    requires test__hw__area__reqInput_area [dimensionless]
+    provides test__hw__area__proOutput_area [dimensionless]
+
+    # database
+    implemented-by yaml resource("test__hw__area.yaml")
+}
+
+#mcdp-solve -d test_fab.mcdplib test__hw__area '500' --imp --plot --out 'test_fab.mcdplib.outputs'

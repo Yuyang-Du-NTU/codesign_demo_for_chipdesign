@@ -1,0 +1,46 @@
+F:
+  - "dimensionless"       # Computation__area__output_area
+R:
+  - "dimensionless"       # Computation__area__input_area
+  - "dimensionless"       # Computation__area__input_area
+  - "dimensionless"       # Computation__area__input_area
+implementations:
+  imp0:
+    f_max:
+      - "10"
+    r_min:
+      - "7"
+      - "3500"
+      - "6"
+
+  imp1:
+    f_max:
+      - "10"
+    r_min:
+      - "1"
+      - "3500"
+      - "5"
+
+  imp2:
+    f_max:
+      - "8"
+    r_min:
+      - "2"
+      - "3500"
+      - "9"
+
+  imp3:
+    f_max:
+      - "12"
+    r_min:
+      - "3"
+      - "3500"
+      - "7"
+
+  imp4:
+    f_max:
+      - "6"
+    r_min:
+      - "4"
+      - "3500"
+      - "5"

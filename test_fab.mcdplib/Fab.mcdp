@@ -1,0 +1,16 @@
+
+dp{
+
+
+    # global req & pro
+    requires Fab__self__reqPossibility [dimensionless]
+    requires Fab__self__reqCost [dimensionless]
+    requires Fab__self__reqHardware__proArea [dimensionless]
+
+    provides Fab__self__proNumber_yield [dimensionless]
+
+    # database
+    implemented-by yaml resource("Fab.yaml")
+}
+
+#mcdp-solve -d test_fab.mcdplib Fab '8' --imp --plot --out 'test_fab.mcdplib.outputs' --nocache

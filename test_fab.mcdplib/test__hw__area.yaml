@@ -1,0 +1,5296 @@
+F:
+  - "dimensionless"       # Computation__area__output_area
+R:
+  - "dimensionless"       # Computation__area__input_area
+implementations:
+  area1.0_up5000_total5000:
+    f_max:
+      - "1.0"
+    r_min:
+      - "1.0"
+        
+  area2.0_up5000_total5000:
+    f_max:
+      - "2.0"
+    r_min:
+      - "2.0"
+        
+  area3.0_up5000_total5000:
+    f_max:
+      - "3.0"
+    r_min:
+      - "3.0"
+        
+  area4.0_up5000_total5000:
+    f_max:
+      - "4.0"
+    r_min:
+      - "4.0"
+        
+  area5.0_up5000_total5000:
+    f_max:
+      - "5.0"
+    r_min:
+      - "5.0"
+        
+  area6.0_up5000_total5000:
+    f_max:
+      - "6.0"
+    r_min:
+      - "6.0"
+        
+  area7.0_up5000_total5000:
+    f_max:
+      - "7.0"
+    r_min:
+      - "7.0"
+        
+  area8.0_up5000_total5000:
+    f_max:
+      - "8.0"
+    r_min:
+      - "8.0"
+        
+  area9.0_up5000_total5000:
+    f_max:
+      - "9.0"
+    r_min:
+      - "9.0"
+        
+  area10.0_up5000_total5000:
+    f_max:
+      - "10.0"
+    r_min:
+      - "10.0"
+        
+  area11.0_up5000_total5000:
+    f_max:
+      - "11.0"
+    r_min:
+      - "11.0"
+        
+  area12.0_up5000_total5000:
+    f_max:
+      - "12.0"
+    r_min:
+      - "12.0"
+        
+  area13.0_up5000_total5000:
+    f_max:
+      - "13.0"
+    r_min:
+      - "13.0"
+        
+  area14.0_up5000_total5000:
+    f_max:
+      - "14.0"
+    r_min:
+      - "14.0"
+        
+  area15.0_up5000_total5000:
+    f_max:
+      - "15.0"
+    r_min:
+      - "15.0"
+        
+  area16.0_up5000_total5000:
+    f_max:
+      - "16.0"
+    r_min:
+      - "16.0"
+        
+  area17.0_up5000_total5000:
+    f_max:
+      - "17.0"
+    r_min:
+      - "17.0"
+        
+  area18.0_up5000_total5000:
+    f_max:
+      - "18.0"
+    r_min:
+      - "18.0"
+        
+  area19.0_up5000_total5000:
+    f_max:
+      - "19.0"
+    r_min:
+      - "19.0"
+        
+  area20.0_up5000_total5000:
+    f_max:
+      - "20.0"
+    r_min:
+      - "20.0"
+        
+  area21.0_up5000_total5000:
+    f_max:
+      - "21.0"
+    r_min:
+      - "21.0"
+        
+  area22.0_up5000_total5000:
+    f_max:
+      - "22.0"
+    r_min:
+      - "22.0"
+        
+  area23.0_up5000_total5000:
+    f_max:
+      - "23.0"
+    r_min:
+      - "23.0"
+        
+  area24.0_up5000_total5000:
+    f_max:
+      - "24.0"
+    r_min:
+      - "24.0"
+        
+  area25.0_up5000_total5000:
+    f_max:
+      - "25.0"
+    r_min:
+      - "25.0"
+        
+  area26.0_up5000_total5000:
+    f_max:
+      - "26.0"
+    r_min:
+      - "26.0"
+        
+  area27.0_up5000_total5000:
+    f_max:
+      - "27.0"
+    r_min:
+      - "27.0"
+        
+  area28.0_up5000_total5000:
+    f_max:
+      - "28.0"
+    r_min:
+      - "28.0"
+        
+  area29.0_up5000_total5000:
+    f_max:
+      - "29.0"
+    r_min:
+      - "29.0"
+        
+  area30.0_up5000_total5000:
+    f_max:
+      - "30.0"
+    r_min:
+      - "30.0"
+        
+  area31.0_up5000_total5000:
+    f_max:
+      - "31.0"
+    r_min:
+      - "31.0"
+        
+  area32.0_up5000_total5000:
+    f_max:
+      - "32.0"
+    r_min:
+      - "32.0"
+        
+  area33.0_up5000_total5000:
+    f_max:
+      - "33.0"
+    r_min:
+      - "33.0"
+        
+  area34.0_up5000_total5000:
+    f_max:
+      - "34.0"
+    r_min:
+      - "34.0"
+        
+  area35.0_up5000_total5000:
+    f_max:
+      - "35.0"
+    r_min:
+      - "35.0"
+        
+  area36.0_up5000_total5000:
+    f_max:
+      - "36.0"
+    r_min:
+      - "36.0"
+        
+  area37.0_up5000_total5000:
+    f_max:
+      - "37.0"
+    r_min:
+      - "37.0"
+        
+  area38.0_up5000_total5000:
+    f_max:
+      - "38.0"
+    r_min:
+      - "38.0"
+        
+  area39.0_up5000_total5000:
+    f_max:
+      - "39.0"
+    r_min:
+      - "39.0"
+        
+  area40.0_up5000_total5000:
+    f_max:
+      - "40.0"
+    r_min:
+      - "40.0"
+        
+  area41.0_up5000_total5000:
+    f_max:
+      - "41.0"
+    r_min:
+      - "41.0"
+        
+  area42.0_up5000_total5000:
+    f_max:
+      - "42.0"
+    r_min:
+      - "42.0"
+        
+  area43.0_up5000_total5000:
+    f_max:
+      - "43.0"
+    r_min:
+      - "43.0"
+        
+  area44.0_up5000_total5000:
+    f_max:
+      - "44.0"
+    r_min:
+      - "44.0"
+        
+  area45.0_up5000_total5000:
+    f_max:
+      - "45.0"
+    r_min:
+      - "45.0"
+        
+  area46.0_up5000_total5000:
+    f_max:
+      - "46.0"
+    r_min:
+      - "46.0"
+        
+  area47.0_up5000_total5000:
+    f_max:
+      - "47.0"
+    r_min:
+      - "47.0"
+        
+  area48.0_up5000_total5000:
+    f_max:
+      - "48.0"
+    r_min:
+      - "48.0"
+        
+  area49.0_up5000_total5000:
+    f_max:
+      - "49.0"
+    r_min:
+      - "49.0"
+        
+  area50.0_up5000_total5000:
+    f_max:
+      - "50.0"
+    r_min:
+      - "50.0"
+        
+  area51.0_up5000_total5000:
+    f_max:
+      - "51.0"
+    r_min:
+      - "51.0"
+        
+  area52.0_up5000_total5000:
+    f_max:
+      - "52.0"
+    r_min:
+      - "52.0"
+        
+  area53.0_up5000_total5000:
+    f_max:
+      - "53.0"
+    r_min:
+      - "53.0"
+        
+  area54.0_up5000_total5000:
+    f_max:
+      - "54.0"
+    r_min:
+      - "54.0"
+        
+  area55.0_up5000_total5000:
+    f_max:
+      - "55.0"
+    r_min:
+      - "55.0"
+        
+  area56.0_up5000_total5000:
+    f_max:
+      - "56.0"
+    r_min:
+      - "56.0"
+        
+  area57.0_up5000_total5000:
+    f_max:
+      - "57.0"
+    r_min:
+      - "57.0"
+        
+  area58.0_up5000_total5000:
+    f_max:
+      - "58.0"
+    r_min:
+      - "58.0"
+        
+  area59.0_up5000_total5000:
+    f_max:
+      - "59.0"
+    r_min:
+      - "59.0"
+        
+  area60.0_up5000_total5000:
+    f_max:
+      - "60.0"
+    r_min:
+      - "60.0"
+        
+  area61.0_up5000_total5000:
+    f_max:
+      - "61.0"
+    r_min:
+      - "61.0"
+        
+  area62.0_up5000_total5000:
+    f_max:
+      - "62.0"
+    r_min:
+      - "62.0"
+        
+  area63.0_up5000_total5000:
+    f_max:
+      - "63.0"
+    r_min:
+      - "63.0"
+        
+  area64.0_up5000_total5000:
+    f_max:
+      - "64.0"
+    r_min:
+      - "64.0"
+        
+  area65.0_up5000_total5000:
+    f_max:
+      - "65.0"
+    r_min:
+      - "65.0"
+        
+  area66.0_up5000_total5000:
+    f_max:
+      - "66.0"
+    r_min:
+      - "66.0"
+        
+  area67.0_up5000_total5000:
+    f_max:
+      - "67.0"
+    r_min:
+      - "67.0"
+        
+  area68.0_up5000_total5000:
+    f_max:
+      - "68.0"
+    r_min:
+      - "68.0"
+        
+  area69.0_up5000_total5000:
+    f_max:
+      - "69.0"
+    r_min:
+      - "69.0"
+        
+  area70.0_up5000_total5000:
+    f_max:
+      - "70.0"
+    r_min:
+      - "70.0"
+        
+  area71.0_up5000_total5000:
+    f_max:
+      - "71.0"
+    r_min:
+      - "71.0"
+        
+  area72.0_up5000_total5000:
+    f_max:
+      - "72.0"
+    r_min:
+      - "72.0"
+        
+  area73.0_up5000_total5000:
+    f_max:
+      - "73.0"
+    r_min:
+      - "73.0"
+        
+  area74.0_up5000_total5000:
+    f_max:
+      - "74.0"
+    r_min:
+      - "74.0"
+        
+  area75.0_up5000_total5000:
+    f_max:
+      - "75.0"
+    r_min:
+      - "75.0"
+        
+  area76.0_up5000_total5000:
+    f_max:
+      - "76.0"
+    r_min:
+      - "76.0"
+        
+  area77.0_up5000_total5000:
+    f_max:
+      - "77.0"
+    r_min:
+      - "77.0"
+        
+  area78.0_up5000_total5000:
+    f_max:
+      - "78.0"
+    r_min:
+      - "78.0"
+        
+  area79.0_up5000_total5000:
+    f_max:
+      - "79.0"
+    r_min:
+      - "79.0"
+        
+  area80.0_up5000_total5000:
+    f_max:
+      - "80.0"
+    r_min:
+      - "80.0"
+        
+  area81.0_up5000_total5000:
+    f_max:
+      - "81.0"
+    r_min:
+      - "81.0"
+        
+  area82.0_up5000_total5000:
+    f_max:
+      - "82.0"
+    r_min:
+      - "82.0"
+        
+  area83.0_up5000_total5000:
+    f_max:
+      - "83.0"
+    r_min:
+      - "83.0"
+        
+  area84.0_up5000_total5000:
+    f_max:
+      - "84.0"
+    r_min:
+      - "84.0"
+        
+  area85.0_up5000_total5000:
+    f_max:
+      - "85.0"
+    r_min:
+      - "85.0"
+        
+  area86.0_up5000_total5000:
+    f_max:
+      - "86.0"
+    r_min:
+      - "86.0"
+        
+  area87.0_up5000_total5000:
+    f_max:
+      - "87.0"
+    r_min:
+      - "87.0"
+        
+  area88.0_up5000_total5000:
+    f_max:
+      - "88.0"
+    r_min:
+      - "88.0"
+        
+  area89.0_up5000_total5000:
+    f_max:
+      - "89.0"
+    r_min:
+      - "89.0"
+        
+  area90.0_up5000_total5000:
+    f_max:
+      - "90.0"
+    r_min:
+      - "90.0"
+        
+  area91.0_up5000_total5000:
+    f_max:
+      - "91.0"
+    r_min:
+      - "91.0"
+        
+  area92.0_up5000_total5000:
+    f_max:
+      - "92.0"
+    r_min:
+      - "92.0"
+        
+  area93.0_up5000_total5000:
+    f_max:
+      - "93.0"
+    r_min:
+      - "93.0"
+        
+  area94.0_up5000_total5000:
+    f_max:
+      - "94.0"
+    r_min:
+      - "94.0"
+        
+  area95.0_up5000_total5000:
+    f_max:
+      - "95.0"
+    r_min:
+      - "95.0"
+        
+  area96.0_up5000_total5000:
+    f_max:
+      - "96.0"
+    r_min:
+      - "96.0"
+        
+  area97.0_up5000_total5000:
+    f_max:
+      - "97.0"
+    r_min:
+      - "97.0"
+        
+  area98.0_up5000_total5000:
+    f_max:
+      - "98.0"
+    r_min:
+      - "98.0"
+        
+  area99.0_up5000_total5000:
+    f_max:
+      - "99.0"
+    r_min:
+      - "99.0"
+        
+  area100.0_up5000_total5000:
+    f_max:
+      - "100.0"
+    r_min:
+      - "100.0"
+        
+  area101.0_up5000_total5000:
+    f_max:
+      - "101.0"
+    r_min:
+      - "101.0"
+        
+  area102.0_up5000_total5000:
+    f_max:
+      - "102.0"
+    r_min:
+      - "102.0"
+        
+  area103.0_up5000_total5000:
+    f_max:
+      - "103.0"
+    r_min:
+      - "103.0"
+        
+  area104.0_up5000_total5000:
+    f_max:
+      - "104.0"
+    r_min:
+      - "104.0"
+        
+  area105.0_up5000_total5000:
+    f_max:
+      - "105.0"
+    r_min:
+      - "105.0"
+        
+  area106.0_up5000_total5000:
+    f_max:
+      - "106.0"
+    r_min:
+      - "106.0"
+        
+  area107.0_up5000_total5000:
+    f_max:
+      - "107.0"
+    r_min:
+      - "107.0"
+        
+  area108.0_up5000_total5000:
+    f_max:
+      - "108.0"
+    r_min:
+      - "108.0"
+        
+  area109.0_up5000_total5000:
+    f_max:
+      - "109.0"
+    r_min:
+      - "109.0"
+        
+  area110.0_up5000_total5000:
+    f_max:
+      - "110.0"
+    r_min:
+      - "110.0"
+        
+  area111.0_up5000_total5000:
+    f_max:
+      - "111.0"
+    r_min:
+      - "111.0"
+        
+  area112.0_up5000_total5000:
+    f_max:
+      - "112.0"
+    r_min:
+      - "112.0"
+        
+  area113.0_up5000_total5000:
+    f_max:
+      - "113.0"
+    r_min:
+      - "113.0"
+        
+  area114.0_up5000_total5000:
+    f_max:
+      - "114.0"
+    r_min:
+      - "114.0"
+        
+  area115.0_up5000_total5000:
+    f_max:
+      - "115.0"
+    r_min:
+      - "115.0"
+        
+  area116.0_up5000_total5000:
+    f_max:
+      - "116.0"
+    r_min:
+      - "116.0"
+        
+  area117.0_up5000_total5000:
+    f_max:
+      - "117.0"
+    r_min:
+      - "117.0"
+        
+  area118.0_up5000_total5000:
+    f_max:
+      - "118.0"
+    r_min:
+      - "118.0"
+        
+  area119.0_up5000_total5000:
+    f_max:
+      - "119.0"
+    r_min:
+      - "119.0"
+        
+  area120.0_up5000_total5000:
+    f_max:
+      - "120.0"
+    r_min:
+      - "120.0"
+        
+  area121.0_up5000_total5000:
+    f_max:
+      - "121.0"
+    r_min:
+      - "121.0"
+        
+  area122.0_up5000_total5000:
+    f_max:
+      - "122.0"
+    r_min:
+      - "122.0"
+        
+  area123.0_up5000_total5000:
+    f_max:
+      - "123.0"
+    r_min:
+      - "123.0"
+        
+  area124.0_up5000_total5000:
+    f_max:
+      - "124.0"
+    r_min:
+      - "124.0"
+        
+  area125.0_up5000_total5000:
+    f_max:
+      - "125.0"
+    r_min:
+      - "125.0"
+        
+  area126.0_up5000_total5000:
+    f_max:
+      - "126.0"
+    r_min:
+      - "126.0"
+        
+  area127.0_up5000_total5000:
+    f_max:
+      - "127.0"
+    r_min:
+      - "127.0"
+        
+  area128.0_up5000_total5000:
+    f_max:
+      - "128.0"
+    r_min:
+      - "128.0"
+        
+  area129.0_up5000_total5000:
+    f_max:
+      - "129.0"
+    r_min:
+      - "129.0"
+        
+  area130.0_up5000_total5000:
+    f_max:
+      - "130.0"
+    r_min:
+      - "130.0"
+        
+  area131.0_up5000_total5000:
+    f_max:
+      - "131.0"
+    r_min:
+      - "131.0"
+        
+  area132.0_up5000_total5000:
+    f_max:
+      - "132.0"
+    r_min:
+      - "132.0"
+        
+  area133.0_up5000_total5000:
+    f_max:
+      - "133.0"
+    r_min:
+      - "133.0"
+        
+  area134.0_up5000_total5000:
+    f_max:
+      - "134.0"
+    r_min:
+      - "134.0"
+        
+  area135.0_up5000_total5000:
+    f_max:
+      - "135.0"
+    r_min:
+      - "135.0"
+        
+  area136.0_up5000_total5000:
+    f_max:
+      - "136.0"
+    r_min:
+      - "136.0"
+        
+  area137.0_up5000_total5000:
+    f_max:
+      - "137.0"
+    r_min:
+      - "137.0"
+        
+  area138.0_up5000_total5000:
+    f_max:
+      - "138.0"
+    r_min:
+      - "138.0"
+        
+  area139.0_up5000_total5000:
+    f_max:
+      - "139.0"
+    r_min:
+      - "139.0"
+        
+  area140.0_up5000_total5000:
+    f_max:
+      - "140.0"
+    r_min:
+      - "140.0"
+        
+  area141.0_up5000_total5000:
+    f_max:
+      - "141.0"
+    r_min:
+      - "141.0"
+        
+  area142.0_up5000_total5000:
+    f_max:
+      - "142.0"
+    r_min:
+      - "142.0"
+        
+  area143.0_up5000_total5000:
+    f_max:
+      - "143.0"
+    r_min:
+      - "143.0"
+        
+  area144.0_up5000_total5000:
+    f_max:
+      - "144.0"
+    r_min:
+      - "144.0"
+        
+  area145.0_up5000_total5000:
+    f_max:
+      - "145.0"
+    r_min:
+      - "145.0"
+        
+  area146.0_up5000_total5000:
+    f_max:
+      - "146.0"
+    r_min:
+      - "146.0"
+        
+  area147.0_up5000_total5000:
+    f_max:
+      - "147.0"
+    r_min:
+      - "147.0"
+        
+  area148.0_up5000_total5000:
+    f_max:
+      - "148.0"
+    r_min:
+      - "148.0"
+        
+  area149.0_up5000_total5000:
+    f_max:
+      - "149.0"
+    r_min:
+      - "149.0"
+        
+  area150.0_up5000_total5000:
+    f_max:
+      - "150.0"
+    r_min:
+      - "150.0"
+        
+  area151.0_up5000_total5000:
+    f_max:
+      - "151.0"
+    r_min:
+      - "151.0"
+        
+  area152.0_up5000_total5000:
+    f_max:
+      - "152.0"
+    r_min:
+      - "152.0"
+        
+  area153.0_up5000_total5000:
+    f_max:
+      - "153.0"
+    r_min:
+      - "153.0"
+        
+  area154.0_up5000_total5000:
+    f_max:
+      - "154.0"
+    r_min:
+      - "154.0"
+        
+  area155.0_up5000_total5000:
+    f_max:
+      - "155.0"
+    r_min:
+      - "155.0"
+        
+  area156.0_up5000_total5000:
+    f_max:
+      - "156.0"
+    r_min:
+      - "156.0"
+        
+  area157.0_up5000_total5000:
+    f_max:
+      - "157.0"
+    r_min:
+      - "157.0"
+        
+  area158.0_up5000_total5000:
+    f_max:
+      - "158.0"
+    r_min:
+      - "158.0"
+        
+  area159.0_up5000_total5000:
+    f_max:
+      - "159.0"
+    r_min:
+      - "159.0"
+        
+  area160.0_up5000_total5000:
+    f_max:
+      - "160.0"
+    r_min:
+      - "160.0"
+        
+  area161.0_up5000_total5000:
+    f_max:
+      - "161.0"
+    r_min:
+      - "161.0"
+        
+  area162.0_up5000_total5000:
+    f_max:
+      - "162.0"
+    r_min:
+      - "162.0"
+        
+  area163.0_up5000_total5000:
+    f_max:
+      - "163.0"
+    r_min:
+      - "163.0"
+        
+  area164.0_up5000_total5000:
+    f_max:
+      - "164.0"
+    r_min:
+      - "164.0"
+        
+  area165.0_up5000_total5000:
+    f_max:
+      - "165.0"
+    r_min:
+      - "165.0"
+        
+  area166.0_up5000_total5000:
+    f_max:
+      - "166.0"
+    r_min:
+      - "166.0"
+        
+  area167.0_up5000_total5000:
+    f_max:
+      - "167.0"
+    r_min:
+      - "167.0"
+        
+  area168.0_up5000_total5000:
+    f_max:
+      - "168.0"
+    r_min:
+      - "168.0"
+        
+  area169.0_up5000_total5000:
+    f_max:
+      - "169.0"
+    r_min:
+      - "169.0"
+        
+  area170.0_up5000_total5000:
+    f_max:
+      - "170.0"
+    r_min:
+      - "170.0"
+        
+  area171.0_up5000_total5000:
+    f_max:
+      - "171.0"
+    r_min:
+      - "171.0"
+        
+  area172.0_up5000_total5000:
+    f_max:
+      - "172.0"
+    r_min:
+      - "172.0"
+        
+  area173.0_up5000_total5000:
+    f_max:
+      - "173.0"
+    r_min:
+      - "173.0"
+        
+  area174.0_up5000_total5000:
+    f_max:
+      - "174.0"
+    r_min:
+      - "174.0"
+        
+  area175.0_up5000_total5000:
+    f_max:
+      - "175.0"
+    r_min:
+      - "175.0"
+        
+  area176.0_up5000_total5000:
+    f_max:
+      - "176.0"
+    r_min:
+      - "176.0"
+        
+  area177.0_up5000_total5000:
+    f_max:
+      - "177.0"
+    r_min:
+      - "177.0"
+        
+  area178.0_up5000_total5000:
+    f_max:
+      - "178.0"
+    r_min:
+      - "178.0"
+        
+  area179.0_up5000_total5000:
+    f_max:
+      - "179.0"
+    r_min:
+      - "179.0"
+        
+  area180.0_up5000_total5000:
+    f_max:
+      - "180.0"
+    r_min:
+      - "180.0"
+        
+  area181.0_up5000_total5000:
+    f_max:
+      - "181.0"
+    r_min:
+      - "181.0"
+        
+  area182.0_up5000_total5000:
+    f_max:
+      - "182.0"
+    r_min:
+      - "182.0"
+        
+  area183.0_up5000_total5000:
+    f_max:
+      - "183.0"
+    r_min:
+      - "183.0"
+        
+  area184.0_up5000_total5000:
+    f_max:
+      - "184.0"
+    r_min:
+      - "184.0"
+        
+  area185.0_up5000_total5000:
+    f_max:
+      - "185.0"
+    r_min:
+      - "185.0"
+        
+  area186.0_up5000_total5000:
+    f_max:
+      - "186.0"
+    r_min:
+      - "186.0"
+        
+  area187.0_up5000_total5000:
+    f_max:
+      - "187.0"
+    r_min:
+      - "187.0"
+        
+  area188.0_up5000_total5000:
+    f_max:
+      - "188.0"
+    r_min:
+      - "188.0"
+        
+  area189.0_up5000_total5000:
+    f_max:
+      - "189.0"
+    r_min:
+      - "189.0"
+        
+  area190.0_up5000_total5000:
+    f_max:
+      - "190.0"
+    r_min:
+      - "190.0"
+        
+  area191.0_up5000_total5000:
+    f_max:
+      - "191.0"
+    r_min:
+      - "191.0"
+        
+  area192.0_up5000_total5000:
+    f_max:
+      - "192.0"
+    r_min:
+      - "192.0"
+        
+  area193.0_up5000_total5000:
+    f_max:
+      - "193.0"
+    r_min:
+      - "193.0"
+        
+  area194.0_up5000_total5000:
+    f_max:
+      - "194.0"
+    r_min:
+      - "194.0"
+        
+  area195.0_up5000_total5000:
+    f_max:
+      - "195.0"
+    r_min:
+      - "195.0"
+        
+  area196.0_up5000_total5000:
+    f_max:
+      - "196.0"
+    r_min:
+      - "196.0"
+        
+  area197.0_up5000_total5000:
+    f_max:
+      - "197.0"
+    r_min:
+      - "197.0"
+        
+  area198.0_up5000_total5000:
+    f_max:
+      - "198.0"
+    r_min:
+      - "198.0"
+        
+  area199.0_up5000_total5000:
+    f_max:
+      - "199.0"
+    r_min:
+      - "199.0"
+        
+  area200.0_up5000_total5000:
+    f_max:
+      - "200.0"
+    r_min:
+      - "200.0"
+        
+  area201.0_up5000_total5000:
+    f_max:
+      - "201.0"
+    r_min:
+      - "201.0"
+        
+  area202.0_up5000_total5000:
+    f_max:
+      - "202.0"
+    r_min:
+      - "202.0"
+        
+  area203.0_up5000_total5000:
+    f_max:
+      - "203.0"
+    r_min:
+      - "203.0"
+        
+  area204.0_up5000_total5000:
+    f_max:
+      - "204.0"
+    r_min:
+      - "204.0"
+        
+  area205.0_up5000_total5000:
+    f_max:
+      - "205.0"
+    r_min:
+      - "205.0"
+        
+  area206.0_up5000_total5000:
+    f_max:
+      - "206.0"
+    r_min:
+      - "206.0"
+        
+  area207.0_up5000_total5000:
+    f_max:
+      - "207.0"
+    r_min:
+      - "207.0"
+        
+  area208.0_up5000_total5000:
+    f_max:
+      - "208.0"
+    r_min:
+      - "208.0"
+        
+  area209.0_up5000_total5000:
+    f_max:
+      - "209.0"
+    r_min:
+      - "209.0"
+        
+  area210.0_up5000_total5000:
+    f_max:
+      - "210.0"
+    r_min:
+      - "210.0"
+        
+  area211.0_up5000_total5000:
+    f_max:
+      - "211.0"
+    r_min:
+      - "211.0"
+        
+  area212.0_up5000_total5000:
+    f_max:
+      - "212.0"
+    r_min:
+      - "212.0"
+        
+  area213.0_up5000_total5000:
+    f_max:
+      - "213.0"
+    r_min:
+      - "213.0"
+        
+  area214.0_up5000_total5000:
+    f_max:
+      - "214.0"
+    r_min:
+      - "214.0"
+        
+  area215.0_up5000_total5000:
+    f_max:
+      - "215.0"
+    r_min:
+      - "215.0"
+        
+  area216.0_up5000_total5000:
+    f_max:
+      - "216.0"
+    r_min:
+      - "216.0"
+        
+  area217.0_up5000_total5000:
+    f_max:
+      - "217.0"
+    r_min:
+      - "217.0"
+        
+  area218.0_up5000_total5000:
+    f_max:
+      - "218.0"
+    r_min:
+      - "218.0"
+        
+  area219.0_up5000_total5000:
+    f_max:
+      - "219.0"
+    r_min:
+      - "219.0"
+        
+  area220.0_up5000_total5000:
+    f_max:
+      - "220.0"
+    r_min:
+      - "220.0"
+        
+  area221.0_up5000_total5000:
+    f_max:
+      - "221.0"
+    r_min:
+      - "221.0"
+        
+  area222.0_up5000_total5000:
+    f_max:
+      - "222.0"
+    r_min:
+      - "222.0"
+        
+  area223.0_up5000_total5000:
+    f_max:
+      - "223.0"
+    r_min:
+      - "223.0"
+        
+  area224.0_up5000_total5000:
+    f_max:
+      - "224.0"
+    r_min:
+      - "224.0"
+        
+  area225.0_up5000_total5000:
+    f_max:
+      - "225.0"
+    r_min:
+      - "225.0"
+        
+  area226.0_up5000_total5000:
+    f_max:
+      - "226.0"
+    r_min:
+      - "226.0"
+        
+  area227.0_up5000_total5000:
+    f_max:
+      - "227.0"
+    r_min:
+      - "227.0"
+        
+  area228.0_up5000_total5000:
+    f_max:
+      - "228.0"
+    r_min:
+      - "228.0"
+        
+  area229.0_up5000_total5000:
+    f_max:
+      - "229.0"
+    r_min:
+      - "229.0"
+        
+  area230.0_up5000_total5000:
+    f_max:
+      - "230.0"
+    r_min:
+      - "230.0"
+        
+  area231.0_up5000_total5000:
+    f_max:
+      - "231.0"
+    r_min:
+      - "231.0"
+        
+  area232.0_up5000_total5000:
+    f_max:
+      - "232.0"
+    r_min:
+      - "232.0"
+        
+  area233.0_up5000_total5000:
+    f_max:
+      - "233.0"
+    r_min:
+      - "233.0"
+        
+  area234.0_up5000_total5000:
+    f_max:
+      - "234.0"
+    r_min:
+      - "234.0"
+        
+  area235.0_up5000_total5000:
+    f_max:
+      - "235.0"
+    r_min:
+      - "235.0"
+        
+  area236.0_up5000_total5000:
+    f_max:
+      - "236.0"
+    r_min:
+      - "236.0"
+        
+  area237.0_up5000_total5000:
+    f_max:
+      - "237.0"
+    r_min:
+      - "237.0"
+        
+  area238.0_up5000_total5000:
+    f_max:
+      - "238.0"
+    r_min:
+      - "238.0"
+        
+  area239.0_up5000_total5000:
+    f_max:
+      - "239.0"
+    r_min:
+      - "239.0"
+        
+  area240.0_up5000_total5000:
+    f_max:
+      - "240.0"
+    r_min:
+      - "240.0"
+        
+  area241.0_up5000_total5000:
+    f_max:
+      - "241.0"
+    r_min:
+      - "241.0"
+        
+  area242.0_up5000_total5000:
+    f_max:
+      - "242.0"
+    r_min:
+      - "242.0"
+        
+  area243.0_up5000_total5000:
+    f_max:
+      - "243.0"
+    r_min:
+      - "243.0"
+        
+  area244.0_up5000_total5000:
+    f_max:
+      - "244.0"
+    r_min:
+      - "244.0"
+        
+  area245.0_up5000_total5000:
+    f_max:
+      - "245.0"
+    r_min:
+      - "245.0"
+        
+  area246.0_up5000_total5000:
+    f_max:
+      - "246.0"
+    r_min:
+      - "246.0"
+        
+  area247.0_up5000_total5000:
+    f_max:
+      - "247.0"
+    r_min:
+      - "247.0"
+        
+  area248.0_up5000_total5000:
+    f_max:
+      - "248.0"
+    r_min:
+      - "248.0"
+        
+  area249.0_up5000_total5000:
+    f_max:
+      - "249.0"
+    r_min:
+      - "249.0"
+        
+  area250.0_up5000_total5000:
+    f_max:
+      - "250.0"
+    r_min:
+      - "250.0"
+        
+  area251.0_up5000_total5000:
+    f_max:
+      - "251.0"
+    r_min:
+      - "251.0"
+        
+  area252.0_up5000_total5000:
+    f_max:
+      - "252.0"
+    r_min:
+      - "252.0"
+        
+  area253.0_up5000_total5000:
+    f_max:
+      - "253.0"
+    r_min:
+      - "253.0"
+        
+  area254.0_up5000_total5000:
+    f_max:
+      - "254.0"
+    r_min:
+      - "254.0"
+        
+  area255.0_up5000_total5000:
+    f_max:
+      - "255.0"
+    r_min:
+      - "255.0"
+        
+  area256.0_up5000_total5000:
+    f_max:
+      - "256.0"
+    r_min:
+      - "256.0"
+        
+  area257.0_up5000_total5000:
+    f_max:
+      - "257.0"
+    r_min:
+      - "257.0"
+        
+  area258.0_up5000_total5000:
+    f_max:
+      - "258.0"
+    r_min:
+      - "258.0"
+        
+  area259.0_up5000_total5000:
+    f_max:
+      - "259.0"
+    r_min:
+      - "259.0"
+        
+  area260.0_up5000_total5000:
+    f_max:
+      - "260.0"
+    r_min:
+      - "260.0"
+        
+  area261.0_up5000_total5000:
+    f_max:
+      - "261.0"
+    r_min:
+      - "261.0"
+        
+  area262.0_up5000_total5000:
+    f_max:
+      - "262.0"
+    r_min:
+      - "262.0"
+        
+  area263.0_up5000_total5000:
+    f_max:
+      - "263.0"
+    r_min:
+      - "263.0"
+        
+  area264.0_up5000_total5000:
+    f_max:
+      - "264.0"
+    r_min:
+      - "264.0"
+        
+  area265.0_up5000_total5000:
+    f_max:
+      - "265.0"
+    r_min:
+      - "265.0"
+        
+  area266.0_up5000_total5000:
+    f_max:
+      - "266.0"
+    r_min:
+      - "266.0"
+        
+  area267.0_up5000_total5000:
+    f_max:
+      - "267.0"
+    r_min:
+      - "267.0"
+        
+  area268.0_up5000_total5000:
+    f_max:
+      - "268.0"
+    r_min:
+      - "268.0"
+        
+  area269.0_up5000_total5000:
+    f_max:
+      - "269.0"
+    r_min:
+      - "269.0"
+        
+  area270.0_up5000_total5000:
+    f_max:
+      - "270.0"
+    r_min:
+      - "270.0"
+        
+  area271.0_up5000_total5000:
+    f_max:
+      - "271.0"
+    r_min:
+      - "271.0"
+        
+  area272.0_up5000_total5000:
+    f_max:
+      - "272.0"
+    r_min:
+      - "272.0"
+        
+  area273.0_up5000_total5000:
+    f_max:
+      - "273.0"
+    r_min:
+      - "273.0"
+        
+  area274.0_up5000_total5000:
+    f_max:
+      - "274.0"
+    r_min:
+      - "274.0"
+        
+  area275.0_up5000_total5000:
+    f_max:
+      - "275.0"
+    r_min:
+      - "275.0"
+        
+  area276.0_up5000_total5000:
+    f_max:
+      - "276.0"
+    r_min:
+      - "276.0"
+        
+  area277.0_up5000_total5000:
+    f_max:
+      - "277.0"
+    r_min:
+      - "277.0"
+        
+  area278.0_up5000_total5000:
+    f_max:
+      - "278.0"
+    r_min:
+      - "278.0"
+        
+  area279.0_up5000_total5000:
+    f_max:
+      - "279.0"
+    r_min:
+      - "279.0"
+        
+  area280.0_up5000_total5000:
+    f_max:
+      - "280.0"
+    r_min:
+      - "280.0"
+        
+  area281.0_up5000_total5000:
+    f_max:
+      - "281.0"
+    r_min:
+      - "281.0"
+        
+  area282.0_up5000_total5000:
+    f_max:
+      - "282.0"
+    r_min:
+      - "282.0"
+        
+  area283.0_up5000_total5000:
+    f_max:
+      - "283.0"
+    r_min:
+      - "283.0"
+        
+  area284.0_up5000_total5000:
+    f_max:
+      - "284.0"
+    r_min:
+      - "284.0"
+        
+  area285.0_up5000_total5000:
+    f_max:
+      - "285.0"
+    r_min:
+      - "285.0"
+        
+  area286.0_up5000_total5000:
+    f_max:
+      - "286.0"
+    r_min:
+      - "286.0"
+        
+  area287.0_up5000_total5000:
+    f_max:
+      - "287.0"
+    r_min:
+      - "287.0"
+        
+  area288.0_up5000_total5000:
+    f_max:
+      - "288.0"
+    r_min:
+      - "288.0"
+        
+  area289.0_up5000_total5000:
+    f_max:
+      - "289.0"
+    r_min:
+      - "289.0"
+        
+  area290.0_up5000_total5000:
+    f_max:
+      - "290.0"
+    r_min:
+      - "290.0"
+        
+  area291.0_up5000_total5000:
+    f_max:
+      - "291.0"
+    r_min:
+      - "291.0"
+        
+  area292.0_up5000_total5000:
+    f_max:
+      - "292.0"
+    r_min:
+      - "292.0"
+        
+  area293.0_up5000_total5000:
+    f_max:
+      - "293.0"
+    r_min:
+      - "293.0"
+        
+  area294.0_up5000_total5000:
+    f_max:
+      - "294.0"
+    r_min:
+      - "294.0"
+        
+  area295.0_up5000_total5000:
+    f_max:
+      - "295.0"
+    r_min:
+      - "295.0"
+        
+  area296.0_up5000_total5000:
+    f_max:
+      - "296.0"
+    r_min:
+      - "296.0"
+        
+  area297.0_up5000_total5000:
+    f_max:
+      - "297.0"
+    r_min:
+      - "297.0"
+        
+  area298.0_up5000_total5000:
+    f_max:
+      - "298.0"
+    r_min:
+      - "298.0"
+        
+  area299.0_up5000_total5000:
+    f_max:
+      - "299.0"
+    r_min:
+      - "299.0"
+        
+  area300.0_up5000_total5000:
+    f_max:
+      - "300.0"
+    r_min:
+      - "300.0"
+        
+  area301.0_up5000_total5000:
+    f_max:
+      - "301.0"
+    r_min:
+      - "301.0"
+        
+  area302.0_up5000_total5000:
+    f_max:
+      - "302.0"
+    r_min:
+      - "302.0"
+        
+  area303.0_up5000_total5000:
+    f_max:
+      - "303.0"
+    r_min:
+      - "303.0"
+        
+  area304.0_up5000_total5000:
+    f_max:
+      - "304.0"
+    r_min:
+      - "304.0"
+        
+  area305.0_up5000_total5000:
+    f_max:
+      - "305.0"
+    r_min:
+      - "305.0"
+        
+  area306.0_up5000_total5000:
+    f_max:
+      - "306.0"
+    r_min:
+      - "306.0"
+        
+  area307.0_up5000_total5000:
+    f_max:
+      - "307.0"
+    r_min:
+      - "307.0"
+        
+  area308.0_up5000_total5000:
+    f_max:
+      - "308.0"
+    r_min:
+      - "308.0"
+        
+  area309.0_up5000_total5000:
+    f_max:
+      - "309.0"
+    r_min:
+      - "309.0"
+        
+  area310.0_up5000_total5000:
+    f_max:
+      - "310.0"
+    r_min:
+      - "310.0"
+        
+  area311.0_up5000_total5000:
+    f_max:
+      - "311.0"
+    r_min:
+      - "311.0"
+        
+  area312.0_up5000_total5000:
+    f_max:
+      - "312.0"
+    r_min:
+      - "312.0"
+        
+  area313.0_up5000_total5000:
+    f_max:
+      - "313.0"
+    r_min:
+      - "313.0"
+        
+  area314.0_up5000_total5000:
+    f_max:
+      - "314.0"
+    r_min:
+      - "314.0"
+        
+  area315.0_up5000_total5000:
+    f_max:
+      - "315.0"
+    r_min:
+      - "315.0"
+        
+  area316.0_up5000_total5000:
+    f_max:
+      - "316.0"
+    r_min:
+      - "316.0"
+        
+  area317.0_up5000_total5000:
+    f_max:
+      - "317.0"
+    r_min:
+      - "317.0"
+        
+  area318.0_up5000_total5000:
+    f_max:
+      - "318.0"
+    r_min:
+      - "318.0"
+        
+  area319.0_up5000_total5000:
+    f_max:
+      - "319.0"
+    r_min:
+      - "319.0"
+        
+  area320.0_up5000_total5000:
+    f_max:
+      - "320.0"
+    r_min:
+      - "320.0"
+        
+  area321.0_up5000_total5000:
+    f_max:
+      - "321.0"
+    r_min:
+      - "321.0"
+        
+  area322.0_up5000_total5000:
+    f_max:
+      - "322.0"
+    r_min:
+      - "322.0"
+        
+  area323.0_up5000_total5000:
+    f_max:
+      - "323.0"
+    r_min:
+      - "323.0"
+        
+  area324.0_up5000_total5000:
+    f_max:
+      - "324.0"
+    r_min:
+      - "324.0"
+        
+  area325.0_up5000_total5000:
+    f_max:
+      - "325.0"
+    r_min:
+      - "325.0"
+        
+  area326.0_up5000_total5000:
+    f_max:
+      - "326.0"
+    r_min:
+      - "326.0"
+        
+  area327.0_up5000_total5000:
+    f_max:
+      - "327.0"
+    r_min:
+      - "327.0"
+        
+  area328.0_up5000_total5000:
+    f_max:
+      - "328.0"
+    r_min:
+      - "328.0"
+        
+  area329.0_up5000_total5000:
+    f_max:
+      - "329.0"
+    r_min:
+      - "329.0"
+        
+  area330.0_up5000_total5000:
+    f_max:
+      - "330.0"
+    r_min:
+      - "330.0"
+        
+  area331.0_up5000_total5000:
+    f_max:
+      - "331.0"
+    r_min:
+      - "331.0"
+        
+  area332.0_up5000_total5000:
+    f_max:
+      - "332.0"
+    r_min:
+      - "332.0"
+        
+  area333.0_up5000_total5000:
+    f_max:
+      - "333.0"
+    r_min:
+      - "333.0"
+        
+  area334.0_up5000_total5000:
+    f_max:
+      - "334.0"
+    r_min:
+      - "334.0"
+        
+  area335.0_up5000_total5000:
+    f_max:
+      - "335.0"
+    r_min:
+      - "335.0"
+        
+  area336.0_up5000_total5000:
+    f_max:
+      - "336.0"
+    r_min:
+      - "336.0"
+        
+  area337.0_up5000_total5000:
+    f_max:
+      - "337.0"
+    r_min:
+      - "337.0"
+        
+  area338.0_up5000_total5000:
+    f_max:
+      - "338.0"
+    r_min:
+      - "338.0"
+        
+  area339.0_up5000_total5000:
+    f_max:
+      - "339.0"
+    r_min:
+      - "339.0"
+        
+  area340.0_up5000_total5000:
+    f_max:
+      - "340.0"
+    r_min:
+      - "340.0"
+        
+  area341.0_up5000_total5000:
+    f_max:
+      - "341.0"
+    r_min:
+      - "341.0"
+        
+  area342.0_up5000_total5000:
+    f_max:
+      - "342.0"
+    r_min:
+      - "342.0"
+        
+  area343.0_up5000_total5000:
+    f_max:
+      - "343.0"
+    r_min:
+      - "343.0"
+        
+  area344.0_up5000_total5000:
+    f_max:
+      - "344.0"
+    r_min:
+      - "344.0"
+        
+  area345.0_up5000_total5000:
+    f_max:
+      - "345.0"
+    r_min:
+      - "345.0"
+        
+  area346.0_up5000_total5000:
+    f_max:
+      - "346.0"
+    r_min:
+      - "346.0"
+        
+  area347.0_up5000_total5000:
+    f_max:
+      - "347.0"
+    r_min:
+      - "347.0"
+        
+  area348.0_up5000_total5000:
+    f_max:
+      - "348.0"
+    r_min:
+      - "348.0"
+        
+  area349.0_up5000_total5000:
+    f_max:
+      - "349.0"
+    r_min:
+      - "349.0"
+        
+  area350.0_up5000_total5000:
+    f_max:
+      - "350.0"
+    r_min:
+      - "350.0"
+        
+  area351.0_up5000_total5000:
+    f_max:
+      - "351.0"
+    r_min:
+      - "351.0"
+        
+  area352.0_up5000_total5000:
+    f_max:
+      - "352.0"
+    r_min:
+      - "352.0"
+        
+  area353.0_up5000_total5000:
+    f_max:
+      - "353.0"
+    r_min:
+      - "353.0"
+        
+  area354.0_up5000_total5000:
+    f_max:
+      - "354.0"
+    r_min:
+      - "354.0"
+        
+  area355.0_up5000_total5000:
+    f_max:
+      - "355.0"
+    r_min:
+      - "355.0"
+        
+  area356.0_up5000_total5000:
+    f_max:
+      - "356.0"
+    r_min:
+      - "356.0"
+        
+  area357.0_up5000_total5000:
+    f_max:
+      - "357.0"
+    r_min:
+      - "357.0"
+        
+  area358.0_up5000_total5000:
+    f_max:
+      - "358.0"
+    r_min:
+      - "358.0"
+        
+  area359.0_up5000_total5000:
+    f_max:
+      - "359.0"
+    r_min:
+      - "359.0"
+        
+  area360.0_up5000_total5000:
+    f_max:
+      - "360.0"
+    r_min:
+      - "360.0"
+        
+  area361.0_up5000_total5000:
+    f_max:
+      - "361.0"
+    r_min:
+      - "361.0"
+        
+  area362.0_up5000_total5000:
+    f_max:
+      - "362.0"
+    r_min:
+      - "362.0"
+        
+  area363.0_up5000_total5000:
+    f_max:
+      - "363.0"
+    r_min:
+      - "363.0"
+        
+  area364.0_up5000_total5000:
+    f_max:
+      - "364.0"
+    r_min:
+      - "364.0"
+        
+  area365.0_up5000_total5000:
+    f_max:
+      - "365.0"
+    r_min:
+      - "365.0"
+        
+  area366.0_up5000_total5000:
+    f_max:
+      - "366.0"
+    r_min:
+      - "366.0"
+        
+  area367.0_up5000_total5000:
+    f_max:
+      - "367.0"
+    r_min:
+      - "367.0"
+        
+  area368.0_up5000_total5000:
+    f_max:
+      - "368.0"
+    r_min:
+      - "368.0"
+        
+  area369.0_up5000_total5000:
+    f_max:
+      - "369.0"
+    r_min:
+      - "369.0"
+        
+  area370.0_up5000_total5000:
+    f_max:
+      - "370.0"
+    r_min:
+      - "370.0"
+        
+  area371.0_up5000_total5000:
+    f_max:
+      - "371.0"
+    r_min:
+      - "371.0"
+        
+  area372.0_up5000_total5000:
+    f_max:
+      - "372.0"
+    r_min:
+      - "372.0"
+        
+  area373.0_up5000_total5000:
+    f_max:
+      - "373.0"
+    r_min:
+      - "373.0"
+        
+  area374.0_up5000_total5000:
+    f_max:
+      - "374.0"
+    r_min:
+      - "374.0"
+        
+  area375.0_up5000_total5000:
+    f_max:
+      - "375.0"
+    r_min:
+      - "375.0"
+        
+  area376.0_up5000_total5000:
+    f_max:
+      - "376.0"
+    r_min:
+      - "376.0"
+        
+  area377.0_up5000_total5000:
+    f_max:
+      - "377.0"
+    r_min:
+      - "377.0"
+        
+  area378.0_up5000_total5000:
+    f_max:
+      - "378.0"
+    r_min:
+      - "378.0"
+        
+  area379.0_up5000_total5000:
+    f_max:
+      - "379.0"
+    r_min:
+      - "379.0"
+        
+  area380.0_up5000_total5000:
+    f_max:
+      - "380.0"
+    r_min:
+      - "380.0"
+        
+  area381.0_up5000_total5000:
+    f_max:
+      - "381.0"
+    r_min:
+      - "381.0"
+        
+  area382.0_up5000_total5000:
+    f_max:
+      - "382.0"
+    r_min:
+      - "382.0"
+        
+  area383.0_up5000_total5000:
+    f_max:
+      - "383.0"
+    r_min:
+      - "383.0"
+        
+  area384.0_up5000_total5000:
+    f_max:
+      - "384.0"
+    r_min:
+      - "384.0"
+        
+  area385.0_up5000_total5000:
+    f_max:
+      - "385.0"
+    r_min:
+      - "385.0"
+        
+  area386.0_up5000_total5000:
+    f_max:
+      - "386.0"
+    r_min:
+      - "386.0"
+        
+  area387.0_up5000_total5000:
+    f_max:
+      - "387.0"
+    r_min:
+      - "387.0"
+        
+  area388.0_up5000_total5000:
+    f_max:
+      - "388.0"
+    r_min:
+      - "388.0"
+        
+  area389.0_up5000_total5000:
+    f_max:
+      - "389.0"
+    r_min:
+      - "389.0"
+        
+  area390.0_up5000_total5000:
+    f_max:
+      - "390.0"
+    r_min:
+      - "390.0"
+        
+  area391.0_up5000_total5000:
+    f_max:
+      - "391.0"
+    r_min:
+      - "391.0"
+        
+  area392.0_up5000_total5000:
+    f_max:
+      - "392.0"
+    r_min:
+      - "392.0"
+        
+  area393.0_up5000_total5000:
+    f_max:
+      - "393.0"
+    r_min:
+      - "393.0"
+        
+  area394.0_up5000_total5000:
+    f_max:
+      - "394.0"
+    r_min:
+      - "394.0"
+        
+  area395.0_up5000_total5000:
+    f_max:
+      - "395.0"
+    r_min:
+      - "395.0"
+        
+  area396.0_up5000_total5000:
+    f_max:
+      - "396.0"
+    r_min:
+      - "396.0"
+        
+  area397.0_up5000_total5000:
+    f_max:
+      - "397.0"
+    r_min:
+      - "397.0"
+        
+  area398.0_up5000_total5000:
+    f_max:
+      - "398.0"
+    r_min:
+      - "398.0"
+        
+  area399.0_up5000_total5000:
+    f_max:
+      - "399.0"
+    r_min:
+      - "399.0"
+        
+  area400.0_up5000_total5000:
+    f_max:
+      - "400.0"
+    r_min:
+      - "400.0"
+        
+  area401.0_up5000_total5000:
+    f_max:
+      - "401.0"
+    r_min:
+      - "401.0"
+        
+  area402.0_up5000_total5000:
+    f_max:
+      - "402.0"
+    r_min:
+      - "402.0"
+        
+  area403.0_up5000_total5000:
+    f_max:
+      - "403.0"
+    r_min:
+      - "403.0"
+        
+  area404.0_up5000_total5000:
+    f_max:
+      - "404.0"
+    r_min:
+      - "404.0"
+        
+  area405.0_up5000_total5000:
+    f_max:
+      - "405.0"
+    r_min:
+      - "405.0"
+        
+  area406.0_up5000_total5000:
+    f_max:
+      - "406.0"
+    r_min:
+      - "406.0"
+        
+  area407.0_up5000_total5000:
+    f_max:
+      - "407.0"
+    r_min:
+      - "407.0"
+        
+  area408.0_up5000_total5000:
+    f_max:
+      - "408.0"
+    r_min:
+      - "408.0"
+        
+  area409.0_up5000_total5000:
+    f_max:
+      - "409.0"
+    r_min:
+      - "409.0"
+        
+  area410.0_up5000_total5000:
+    f_max:
+      - "410.0"
+    r_min:
+      - "410.0"
+        
+  area411.0_up5000_total5000:
+    f_max:
+      - "411.0"
+    r_min:
+      - "411.0"
+        
+  area412.0_up5000_total5000:
+    f_max:
+      - "412.0"
+    r_min:
+      - "412.0"
+        
+  area413.0_up5000_total5000:
+    f_max:
+      - "413.0"
+    r_min:
+      - "413.0"
+        
+  area414.0_up5000_total5000:
+    f_max:
+      - "414.0"
+    r_min:
+      - "414.0"
+        
+  area415.0_up5000_total5000:
+    f_max:
+      - "415.0"
+    r_min:
+      - "415.0"
+        
+  area416.0_up5000_total5000:
+    f_max:
+      - "416.0"
+    r_min:
+      - "416.0"
+        
+  area417.0_up5000_total5000:
+    f_max:
+      - "417.0"
+    r_min:
+      - "417.0"
+        
+  area418.0_up5000_total5000:
+    f_max:
+      - "418.0"
+    r_min:
+      - "418.0"
+        
+  area419.0_up5000_total5000:
+    f_max:
+      - "419.0"
+    r_min:
+      - "419.0"
+        
+  area420.0_up5000_total5000:
+    f_max:
+      - "420.0"
+    r_min:
+      - "420.0"
+        
+  area421.0_up5000_total5000:
+    f_max:
+      - "421.0"
+    r_min:
+      - "421.0"
+        
+  area422.0_up5000_total5000:
+    f_max:
+      - "422.0"
+    r_min:
+      - "422.0"
+        
+  area423.0_up5000_total5000:
+    f_max:
+      - "423.0"
+    r_min:
+      - "423.0"
+        
+  area424.0_up5000_total5000:
+    f_max:
+      - "424.0"
+    r_min:
+      - "424.0"
+        
+  area425.0_up5000_total5000:
+    f_max:
+      - "425.0"
+    r_min:
+      - "425.0"
+        
+  area426.0_up5000_total5000:
+    f_max:
+      - "426.0"
+    r_min:
+      - "426.0"
+        
+  area427.0_up5000_total5000:
+    f_max:
+      - "427.0"
+    r_min:
+      - "427.0"
+        
+  area428.0_up5000_total5000:
+    f_max:
+      - "428.0"
+    r_min:
+      - "428.0"
+        
+  area429.0_up5000_total5000:
+    f_max:
+      - "429.0"
+    r_min:
+      - "429.0"
+        
+  area430.0_up5000_total5000:
+    f_max:
+      - "430.0"
+    r_min:
+      - "430.0"
+        
+  area431.0_up5000_total5000:
+    f_max:
+      - "431.0"
+    r_min:
+      - "431.0"
+        
+  area432.0_up5000_total5000:
+    f_max:
+      - "432.0"
+    r_min:
+      - "432.0"
+        
+  area433.0_up5000_total5000:
+    f_max:
+      - "433.0"
+    r_min:
+      - "433.0"
+        
+  area434.0_up5000_total5000:
+    f_max:
+      - "434.0"
+    r_min:
+      - "434.0"
+        
+  area435.0_up5000_total5000:
+    f_max:
+      - "435.0"
+    r_min:
+      - "435.0"
+        
+  area436.0_up5000_total5000:
+    f_max:
+      - "436.0"
+    r_min:
+      - "436.0"
+        
+  area437.0_up5000_total5000:
+    f_max:
+      - "437.0"
+    r_min:
+      - "437.0"
+        
+  area438.0_up5000_total5000:
+    f_max:
+      - "438.0"
+    r_min:
+      - "438.0"
+        
+  area439.0_up5000_total5000:
+    f_max:
+      - "439.0"
+    r_min:
+      - "439.0"
+        
+  area440.0_up5000_total5000:
+    f_max:
+      - "440.0"
+    r_min:
+      - "440.0"
+        
+  area441.0_up5000_total5000:
+    f_max:
+      - "441.0"
+    r_min:
+      - "441.0"
+        
+  area442.0_up5000_total5000:
+    f_max:
+      - "442.0"
+    r_min:
+      - "442.0"
+        
+  area443.0_up5000_total5000:
+    f_max:
+      - "443.0"
+    r_min:
+      - "443.0"
+        
+  area444.0_up5000_total5000:
+    f_max:
+      - "444.0"
+    r_min:
+      - "444.0"
+        
+  area445.0_up5000_total5000:
+    f_max:
+      - "445.0"
+    r_min:
+      - "445.0"
+        
+  area446.0_up5000_total5000:
+    f_max:
+      - "446.0"
+    r_min:
+      - "446.0"
+        
+  area447.0_up5000_total5000:
+    f_max:
+      - "447.0"
+    r_min:
+      - "447.0"
+        
+  area448.0_up5000_total5000:
+    f_max:
+      - "448.0"
+    r_min:
+      - "448.0"
+        
+  area449.0_up5000_total5000:
+    f_max:
+      - "449.0"
+    r_min:
+      - "449.0"
+        
+  area450.0_up5000_total5000:
+    f_max:
+      - "450.0"
+    r_min:
+      - "450.0"
+        
+  area451.0_up5000_total5000:
+    f_max:
+      - "451.0"
+    r_min:
+      - "451.0"
+        
+  area452.0_up5000_total5000:
+    f_max:
+      - "452.0"
+    r_min:
+      - "452.0"
+        
+  area453.0_up5000_total5000:
+    f_max:
+      - "453.0"
+    r_min:
+      - "453.0"
+        
+  area454.0_up5000_total5000:
+    f_max:
+      - "454.0"
+    r_min:
+      - "454.0"
+        
+  area455.0_up5000_total5000:
+    f_max:
+      - "455.0"
+    r_min:
+      - "455.0"
+        
+  area456.0_up5000_total5000:
+    f_max:
+      - "456.0"
+    r_min:
+      - "456.0"
+        
+  area457.0_up5000_total5000:
+    f_max:
+      - "457.0"
+    r_min:
+      - "457.0"
+        
+  area458.0_up5000_total5000:
+    f_max:
+      - "458.0"
+    r_min:
+      - "458.0"
+        
+  area459.0_up5000_total5000:
+    f_max:
+      - "459.0"
+    r_min:
+      - "459.0"
+        
+  area460.0_up5000_total5000:
+    f_max:
+      - "460.0"
+    r_min:
+      - "460.0"
+        
+  area461.0_up5000_total5000:
+    f_max:
+      - "461.0"
+    r_min:
+      - "461.0"
+        
+  area462.0_up5000_total5000:
+    f_max:
+      - "462.0"
+    r_min:
+      - "462.0"
+        
+  area463.0_up5000_total5000:
+    f_max:
+      - "463.0"
+    r_min:
+      - "463.0"
+        
+  area464.0_up5000_total5000:
+    f_max:
+      - "464.0"
+    r_min:
+      - "464.0"
+        
+  area465.0_up5000_total5000:
+    f_max:
+      - "465.0"
+    r_min:
+      - "465.0"
+        
+  area466.0_up5000_total5000:
+    f_max:
+      - "466.0"
+    r_min:
+      - "466.0"
+        
+  area467.0_up5000_total5000:
+    f_max:
+      - "467.0"
+    r_min:
+      - "467.0"
+        
+  area468.0_up5000_total5000:
+    f_max:
+      - "468.0"
+    r_min:
+      - "468.0"
+        
+  area469.0_up5000_total5000:
+    f_max:
+      - "469.0"
+    r_min:
+      - "469.0"
+        
+  area470.0_up5000_total5000:
+    f_max:
+      - "470.0"
+    r_min:
+      - "470.0"
+        
+  area471.0_up5000_total5000:
+    f_max:
+      - "471.0"
+    r_min:
+      - "471.0"
+        
+  area472.0_up5000_total5000:
+    f_max:
+      - "472.0"
+    r_min:
+      - "472.0"
+        
+  area473.0_up5000_total5000:
+    f_max:
+      - "473.0"
+    r_min:
+      - "473.0"
+        
+  area474.0_up5000_total5000:
+    f_max:
+      - "474.0"
+    r_min:
+      - "474.0"
+        
+  area475.0_up5000_total5000:
+    f_max:
+      - "475.0"
+    r_min:
+      - "475.0"
+        
+  area476.0_up5000_total5000:
+    f_max:
+      - "476.0"
+    r_min:
+      - "476.0"
+        
+  area477.0_up5000_total5000:
+    f_max:
+      - "477.0"
+    r_min:
+      - "477.0"
+        
+  area478.0_up5000_total5000:
+    f_max:
+      - "478.0"
+    r_min:
+      - "478.0"
+        
+  area479.0_up5000_total5000:
+    f_max:
+      - "479.0"
+    r_min:
+      - "479.0"
+        
+  area480.0_up5000_total5000:
+    f_max:
+      - "480.0"
+    r_min:
+      - "480.0"
+        
+  area481.0_up5000_total5000:
+    f_max:
+      - "481.0"
+    r_min:
+      - "481.0"
+        
+  area482.0_up5000_total5000:
+    f_max:
+      - "482.0"
+    r_min:
+      - "482.0"
+        
+  area483.0_up5000_total5000:
+    f_max:
+      - "483.0"
+    r_min:
+      - "483.0"
+        
+  area484.0_up5000_total5000:
+    f_max:
+      - "484.0"
+    r_min:
+      - "484.0"
+        
+  area485.0_up5000_total5000:
+    f_max:
+      - "485.0"
+    r_min:
+      - "485.0"
+        
+  area486.0_up5000_total5000:
+    f_max:
+      - "486.0"
+    r_min:
+      - "486.0"
+        
+  area487.0_up5000_total5000:
+    f_max:
+      - "487.0"
+    r_min:
+      - "487.0"
+        
+  area488.0_up5000_total5000:
+    f_max:
+      - "488.0"
+    r_min:
+      - "488.0"
+        
+  area489.0_up5000_total5000:
+    f_max:
+      - "489.0"
+    r_min:
+      - "489.0"
+        
+  area490.0_up5000_total5000:
+    f_max:
+      - "490.0"
+    r_min:
+      - "490.0"
+        
+  area491.0_up5000_total5000:
+    f_max:
+      - "491.0"
+    r_min:
+      - "491.0"
+        
+  area492.0_up5000_total5000:
+    f_max:
+      - "492.0"
+    r_min:
+      - "492.0"
+        
+  area493.0_up5000_total5000:
+    f_max:
+      - "493.0"
+    r_min:
+      - "493.0"
+        
+  area494.0_up5000_total5000:
+    f_max:
+      - "494.0"
+    r_min:
+      - "494.0"
+        
+  area495.0_up5000_total5000:
+    f_max:
+      - "495.0"
+    r_min:
+      - "495.0"
+        
+  area496.0_up5000_total5000:
+    f_max:
+      - "496.0"
+    r_min:
+      - "496.0"
+        
+  area497.0_up5000_total5000:
+    f_max:
+      - "497.0"
+    r_min:
+      - "497.0"
+        
+  area498.0_up5000_total5000:
+    f_max:
+      - "498.0"
+    r_min:
+      - "498.0"
+        
+  area499.0_up5000_total5000:
+    f_max:
+      - "499.0"
+    r_min:
+      - "499.0"
+        
+  area500.0_up5000_total5000:
+    f_max:
+      - "500.0"
+    r_min:
+      - "500.0"
+        
+  area501.0_up5000_total5000:
+    f_max:
+      - "501.0"
+    r_min:
+      - "501.0"
+        
+  area502.0_up5000_total5000:
+    f_max:
+      - "502.0"
+    r_min:
+      - "502.0"
+        
+  area503.0_up5000_total5000:
+    f_max:
+      - "503.0"
+    r_min:
+      - "503.0"
+        
+  area504.0_up5000_total5000:
+    f_max:
+      - "504.0"
+    r_min:
+      - "504.0"
+        
+  area505.0_up5000_total5000:
+    f_max:
+      - "505.0"
+    r_min:
+      - "505.0"
+        
+  area506.0_up5000_total5000:
+    f_max:
+      - "506.0"
+    r_min:
+      - "506.0"
+        
+  area507.0_up5000_total5000:
+    f_max:
+      - "507.0"
+    r_min:
+      - "507.0"
+        
+  area508.0_up5000_total5000:
+    f_max:
+      - "508.0"
+    r_min:
+      - "508.0"
+        
+  area509.0_up5000_total5000:
+    f_max:
+      - "509.0"
+    r_min:
+      - "509.0"
+        
+  area510.0_up5000_total5000:
+    f_max:
+      - "510.0"
+    r_min:
+      - "510.0"
+        
+  area511.0_up5000_total5000:
+    f_max:
+      - "511.0"
+    r_min:
+      - "511.0"
+        
+  area512.0_up5000_total5000:
+    f_max:
+      - "512.0"
+    r_min:
+      - "512.0"
+        
+  area513.0_up5000_total5000:
+    f_max:
+      - "513.0"
+    r_min:
+      - "513.0"
+        
+  area514.0_up5000_total5000:
+    f_max:
+      - "514.0"
+    r_min:
+      - "514.0"
+        
+  area515.0_up5000_total5000:
+    f_max:
+      - "515.0"
+    r_min:
+      - "515.0"
+        
+  area516.0_up5000_total5000:
+    f_max:
+      - "516.0"
+    r_min:
+      - "516.0"
+        
+  area517.0_up5000_total5000:
+    f_max:
+      - "517.0"
+    r_min:
+      - "517.0"
+        
+  area518.0_up5000_total5000:
+    f_max:
+      - "518.0"
+    r_min:
+      - "518.0"
+        
+  area519.0_up5000_total5000:
+    f_max:
+      - "519.0"
+    r_min:
+      - "519.0"
+        
+  area520.0_up5000_total5000:
+    f_max:
+      - "520.0"
+    r_min:
+      - "520.0"
+        
+  area521.0_up5000_total5000:
+    f_max:
+      - "521.0"
+    r_min:
+      - "521.0"
+        
+  area522.0_up5000_total5000:
+    f_max:
+      - "522.0"
+    r_min:
+      - "522.0"
+        
+  area523.0_up5000_total5000:
+    f_max:
+      - "523.0"
+    r_min:
+      - "523.0"
+        
+  area524.0_up5000_total5000:
+    f_max:
+      - "524.0"
+    r_min:
+      - "524.0"
+        
+  area525.0_up5000_total5000:
+    f_max:
+      - "525.0"
+    r_min:
+      - "525.0"
+        
+  area526.0_up5000_total5000:
+    f_max:
+      - "526.0"
+    r_min:
+      - "526.0"
+        
+  area527.0_up5000_total5000:
+    f_max:
+      - "527.0"
+    r_min:
+      - "527.0"
+        
+  area528.0_up5000_total5000:
+    f_max:
+      - "528.0"
+    r_min:
+      - "528.0"
+        
+  area529.0_up5000_total5000:
+    f_max:
+      - "529.0"
+    r_min:
+      - "529.0"
+        
+  area530.0_up5000_total5000:
+    f_max:
+      - "530.0"
+    r_min:
+      - "530.0"
+        
+  area531.0_up5000_total5000:
+    f_max:
+      - "531.0"
+    r_min:
+      - "531.0"
+        
+  area532.0_up5000_total5000:
+    f_max:
+      - "532.0"
+    r_min:
+      - "532.0"
+        
+  area533.0_up5000_total5000:
+    f_max:
+      - "533.0"
+    r_min:
+      - "533.0"
+        
+  area534.0_up5000_total5000:
+    f_max:
+      - "534.0"
+    r_min:
+      - "534.0"
+        
+  area535.0_up5000_total5000:
+    f_max:
+      - "535.0"
+    r_min:
+      - "535.0"
+        
+  area536.0_up5000_total5000:
+    f_max:
+      - "536.0"
+    r_min:
+      - "536.0"
+        
+  area537.0_up5000_total5000:
+    f_max:
+      - "537.0"
+    r_min:
+      - "537.0"
+        
+  area538.0_up5000_total5000:
+    f_max:
+      - "538.0"
+    r_min:
+      - "538.0"
+        
+  area539.0_up5000_total5000:
+    f_max:
+      - "539.0"
+    r_min:
+      - "539.0"
+        
+  area540.0_up5000_total5000:
+    f_max:
+      - "540.0"
+    r_min:
+      - "540.0"
+        
+  area541.0_up5000_total5000:
+    f_max:
+      - "541.0"
+    r_min:
+      - "541.0"
+        
+  area542.0_up5000_total5000:
+    f_max:
+      - "542.0"
+    r_min:
+      - "542.0"
+        
+  area543.0_up5000_total5000:
+    f_max:
+      - "543.0"
+    r_min:
+      - "543.0"
+        
+  area544.0_up5000_total5000:
+    f_max:
+      - "544.0"
+    r_min:
+      - "544.0"
+        
+  area545.0_up5000_total5000:
+    f_max:
+      - "545.0"
+    r_min:
+      - "545.0"
+        
+  area546.0_up5000_total5000:
+    f_max:
+      - "546.0"
+    r_min:
+      - "546.0"
+        
+  area547.0_up5000_total5000:
+    f_max:
+      - "547.0"
+    r_min:
+      - "547.0"
+        
+  area548.0_up5000_total5000:
+    f_max:
+      - "548.0"
+    r_min:
+      - "548.0"
+        
+  area549.0_up5000_total5000:
+    f_max:
+      - "549.0"
+    r_min:
+      - "549.0"
+        
+  area550.0_up5000_total5000:
+    f_max:
+      - "550.0"
+    r_min:
+      - "550.0"
+        
+  area551.0_up5000_total5000:
+    f_max:
+      - "551.0"
+    r_min:
+      - "551.0"
+        
+  area552.0_up5000_total5000:
+    f_max:
+      - "552.0"
+    r_min:
+      - "552.0"
+        
+  area553.0_up5000_total5000:
+    f_max:
+      - "553.0"
+    r_min:
+      - "553.0"
+        
+  area554.0_up5000_total5000:
+    f_max:
+      - "554.0"
+    r_min:
+      - "554.0"
+        
+  area555.0_up5000_total5000:
+    f_max:
+      - "555.0"
+    r_min:
+      - "555.0"
+        
+  area556.0_up5000_total5000:
+    f_max:
+      - "556.0"
+    r_min:
+      - "556.0"
+        
+  area557.0_up5000_total5000:
+    f_max:
+      - "557.0"
+    r_min:
+      - "557.0"
+        
+  area558.0_up5000_total5000:
+    f_max:
+      - "558.0"
+    r_min:
+      - "558.0"
+        
+  area559.0_up5000_total5000:
+    f_max:
+      - "559.0"
+    r_min:
+      - "559.0"
+        
+  area560.0_up5000_total5000:
+    f_max:
+      - "560.0"
+    r_min:
+      - "560.0"
+        
+  area561.0_up5000_total5000:
+    f_max:
+      - "561.0"
+    r_min:
+      - "561.0"
+        
+  area562.0_up5000_total5000:
+    f_max:
+      - "562.0"
+    r_min:
+      - "562.0"
+        
+  area563.0_up5000_total5000:
+    f_max:
+      - "563.0"
+    r_min:
+      - "563.0"
+        
+  area564.0_up5000_total5000:
+    f_max:
+      - "564.0"
+    r_min:
+      - "564.0"
+        
+  area565.0_up5000_total5000:
+    f_max:
+      - "565.0"
+    r_min:
+      - "565.0"
+        
+  area566.0_up5000_total5000:
+    f_max:
+      - "566.0"
+    r_min:
+      - "566.0"
+        
+  area567.0_up5000_total5000:
+    f_max:
+      - "567.0"
+    r_min:
+      - "567.0"
+        
+  area568.0_up5000_total5000:
+    f_max:
+      - "568.0"
+    r_min:
+      - "568.0"
+        
+  area569.0_up5000_total5000:
+    f_max:
+      - "569.0"
+    r_min:
+      - "569.0"
+        
+  area570.0_up5000_total5000:
+    f_max:
+      - "570.0"
+    r_min:
+      - "570.0"
+        
+  area571.0_up5000_total5000:
+    f_max:
+      - "571.0"
+    r_min:
+      - "571.0"
+        
+  area572.0_up5000_total5000:
+    f_max:
+      - "572.0"
+    r_min:
+      - "572.0"
+        
+  area573.0_up5000_total5000:
+    f_max:
+      - "573.0"
+    r_min:
+      - "573.0"
+        
+  area574.0_up5000_total5000:
+    f_max:
+      - "574.0"
+    r_min:
+      - "574.0"
+        
+  area575.0_up5000_total5000:
+    f_max:
+      - "575.0"
+    r_min:
+      - "575.0"
+        
+  area576.0_up5000_total5000:
+    f_max:
+      - "576.0"
+    r_min:
+      - "576.0"
+        
+  area577.0_up5000_total5000:
+    f_max:
+      - "577.0"
+    r_min:
+      - "577.0"
+        
+  area578.0_up5000_total5000:
+    f_max:
+      - "578.0"
+    r_min:
+      - "578.0"
+        
+  area579.0_up5000_total5000:
+    f_max:
+      - "579.0"
+    r_min:
+      - "579.0"
+        
+  area580.0_up5000_total5000:
+    f_max:
+      - "580.0"
+    r_min:
+      - "580.0"
+        
+  area581.0_up5000_total5000:
+    f_max:
+      - "581.0"
+    r_min:
+      - "581.0"
+        
+  area582.0_up5000_total5000:
+    f_max:
+      - "582.0"
+    r_min:
+      - "582.0"
+        
+  area583.0_up5000_total5000:
+    f_max:
+      - "583.0"
+    r_min:
+      - "583.0"
+        
+  area584.0_up5000_total5000:
+    f_max:
+      - "584.0"
+    r_min:
+      - "584.0"
+        
+  area585.0_up5000_total5000:
+    f_max:
+      - "585.0"
+    r_min:
+      - "585.0"
+        
+  area586.0_up5000_total5000:
+    f_max:
+      - "586.0"
+    r_min:
+      - "586.0"
+        
+  area587.0_up5000_total5000:
+    f_max:
+      - "587.0"
+    r_min:
+      - "587.0"
+        
+  area588.0_up5000_total5000:
+    f_max:
+      - "588.0"
+    r_min:
+      - "588.0"
+        
+  area589.0_up5000_total5000:
+    f_max:
+      - "589.0"
+    r_min:
+      - "589.0"
+        
+  area590.0_up5000_total5000:
+    f_max:
+      - "590.0"
+    r_min:
+      - "590.0"
+        
+  area591.0_up5000_total5000:
+    f_max:
+      - "591.0"
+    r_min:
+      - "591.0"
+        
+  area592.0_up5000_total5000:
+    f_max:
+      - "592.0"
+    r_min:
+      - "592.0"
+        
+  area593.0_up5000_total5000:
+    f_max:
+      - "593.0"
+    r_min:
+      - "593.0"
+        
+  area594.0_up5000_total5000:
+    f_max:
+      - "594.0"
+    r_min:
+      - "594.0"
+        
+  area595.0_up5000_total5000:
+    f_max:
+      - "595.0"
+    r_min:
+      - "595.0"
+        
+  area596.0_up5000_total5000:
+    f_max:
+      - "596.0"
+    r_min:
+      - "596.0"
+        
+  area597.0_up5000_total5000:
+    f_max:
+      - "597.0"
+    r_min:
+      - "597.0"
+        
+  area598.0_up5000_total5000:
+    f_max:
+      - "598.0"
+    r_min:
+      - "598.0"
+        
+  area599.0_up5000_total5000:
+    f_max:
+      - "599.0"
+    r_min:
+      - "599.0"
+        
+  area600.0_up5000_total5000:
+    f_max:
+      - "600.0"
+    r_min:
+      - "600.0"
+        
+  area601.0_up5000_total5000:
+    f_max:
+      - "601.0"
+    r_min:
+      - "601.0"
+        
+  area602.0_up5000_total5000:
+    f_max:
+      - "602.0"
+    r_min:
+      - "602.0"
+        
+  area603.0_up5000_total5000:
+    f_max:
+      - "603.0"
+    r_min:
+      - "603.0"
+        
+  area604.0_up5000_total5000:
+    f_max:
+      - "604.0"
+    r_min:
+      - "604.0"
+        
+  area605.0_up5000_total5000:
+    f_max:
+      - "605.0"
+    r_min:
+      - "605.0"
+        
+  area606.0_up5000_total5000:
+    f_max:
+      - "606.0"
+    r_min:
+      - "606.0"
+        
+  area607.0_up5000_total5000:
+    f_max:
+      - "607.0"
+    r_min:
+      - "607.0"
+        
+  area608.0_up5000_total5000:
+    f_max:
+      - "608.0"
+    r_min:
+      - "608.0"
+        
+  area609.0_up5000_total5000:
+    f_max:
+      - "609.0"
+    r_min:
+      - "609.0"
+        
+  area610.0_up5000_total5000:
+    f_max:
+      - "610.0"
+    r_min:
+      - "610.0"
+        
+  area611.0_up5000_total5000:
+    f_max:
+      - "611.0"
+    r_min:
+      - "611.0"
+        
+  area612.0_up5000_total5000:
+    f_max:
+      - "612.0"
+    r_min:
+      - "612.0"
+        
+  area613.0_up5000_total5000:
+    f_max:
+      - "613.0"
+    r_min:
+      - "613.0"
+        
+  area614.0_up5000_total5000:
+    f_max:
+      - "614.0"
+    r_min:
+      - "614.0"
+        
+  area615.0_up5000_total5000:
+    f_max:
+      - "615.0"
+    r_min:
+      - "615.0"
+        
+  area616.0_up5000_total5000:
+    f_max:
+      - "616.0"
+    r_min:
+      - "616.0"
+        
+  area617.0_up5000_total5000:
+    f_max:
+      - "617.0"
+    r_min:
+      - "617.0"
+        
+  area618.0_up5000_total5000:
+    f_max:
+      - "618.0"
+    r_min:
+      - "618.0"
+        
+  area619.0_up5000_total5000:
+    f_max:
+      - "619.0"
+    r_min:
+      - "619.0"
+        
+  area620.0_up5000_total5000:
+    f_max:
+      - "620.0"
+    r_min:
+      - "620.0"
+        
+  area621.0_up5000_total5000:
+    f_max:
+      - "621.0"
+    r_min:
+      - "621.0"
+        
+  area622.0_up5000_total5000:
+    f_max:
+      - "622.0"
+    r_min:
+      - "622.0"
+        
+  area623.0_up5000_total5000:
+    f_max:
+      - "623.0"
+    r_min:
+      - "623.0"
+        
+  area624.0_up5000_total5000:
+    f_max:
+      - "624.0"
+    r_min:
+      - "624.0"
+        
+  area625.0_up5000_total5000:
+    f_max:
+      - "625.0"
+    r_min:
+      - "625.0"
+        
+  area626.0_up5000_total5000:
+    f_max:
+      - "626.0"
+    r_min:
+      - "626.0"
+        
+  area627.0_up5000_total5000:
+    f_max:
+      - "627.0"
+    r_min:
+      - "627.0"
+        
+  area628.0_up5000_total5000:
+    f_max:
+      - "628.0"
+    r_min:
+      - "628.0"
+        
+  area629.0_up5000_total5000:
+    f_max:
+      - "629.0"
+    r_min:
+      - "629.0"
+        
+  area630.0_up5000_total5000:
+    f_max:
+      - "630.0"
+    r_min:
+      - "630.0"
+        
+  area631.0_up5000_total5000:
+    f_max:
+      - "631.0"
+    r_min:
+      - "631.0"
+        
+  area632.0_up5000_total5000:
+    f_max:
+      - "632.0"
+    r_min:
+      - "632.0"
+        
+  area633.0_up5000_total5000:
+    f_max:
+      - "633.0"
+    r_min:
+      - "633.0"
+        
+  area634.0_up5000_total5000:
+    f_max:
+      - "634.0"
+    r_min:
+      - "634.0"
+        
+  area635.0_up5000_total5000:
+    f_max:
+      - "635.0"
+    r_min:
+      - "635.0"
+        
+  area636.0_up5000_total5000:
+    f_max:
+      - "636.0"
+    r_min:
+      - "636.0"
+        
+  area637.0_up5000_total5000:
+    f_max:
+      - "637.0"
+    r_min:
+      - "637.0"
+        
+  area638.0_up5000_total5000:
+    f_max:
+      - "638.0"
+    r_min:
+      - "638.0"
+        
+  area639.0_up5000_total5000:
+    f_max:
+      - "639.0"
+    r_min:
+      - "639.0"
+        
+  area640.0_up5000_total5000:
+    f_max:
+      - "640.0"
+    r_min:
+      - "640.0"
+        
+  area641.0_up5000_total5000:
+    f_max:
+      - "641.0"
+    r_min:
+      - "641.0"
+        
+  area642.0_up5000_total5000:
+    f_max:
+      - "642.0"
+    r_min:
+      - "642.0"
+        
+  area643.0_up5000_total5000:
+    f_max:
+      - "643.0"
+    r_min:
+      - "643.0"
+        
+  area644.0_up5000_total5000:
+    f_max:
+      - "644.0"
+    r_min:
+      - "644.0"
+        
+  area645.0_up5000_total5000:
+    f_max:
+      - "645.0"
+    r_min:
+      - "645.0"
+        
+  area646.0_up5000_total5000:
+    f_max:
+      - "646.0"
+    r_min:
+      - "646.0"
+        
+  area647.0_up5000_total5000:
+    f_max:
+      - "647.0"
+    r_min:
+      - "647.0"
+        
+  area648.0_up5000_total5000:
+    f_max:
+      - "648.0"
+    r_min:
+      - "648.0"
+        
+  area649.0_up5000_total5000:
+    f_max:
+      - "649.0"
+    r_min:
+      - "649.0"
+        
+  area650.0_up5000_total5000:
+    f_max:
+      - "650.0"
+    r_min:
+      - "650.0"
+        
+  area651.0_up5000_total5000:
+    f_max:
+      - "651.0"
+    r_min:
+      - "651.0"
+        
+  area652.0_up5000_total5000:
+    f_max:
+      - "652.0"
+    r_min:
+      - "652.0"
+        
+  area653.0_up5000_total5000:
+    f_max:
+      - "653.0"
+    r_min:
+      - "653.0"
+        
+  area654.0_up5000_total5000:
+    f_max:
+      - "654.0"
+    r_min:
+      - "654.0"
+        
+  area655.0_up5000_total5000:
+    f_max:
+      - "655.0"
+    r_min:
+      - "655.0"
+        
+  area656.0_up5000_total5000:
+    f_max:
+      - "656.0"
+    r_min:
+      - "656.0"
+        
+  area657.0_up5000_total5000:
+    f_max:
+      - "657.0"
+    r_min:
+      - "657.0"
+        
+  area658.0_up5000_total5000:
+    f_max:
+      - "658.0"
+    r_min:
+      - "658.0"
+        
+  area659.0_up5000_total5000:
+    f_max:
+      - "659.0"
+    r_min:
+      - "659.0"
+        
+  area660.0_up5000_total5000:
+    f_max:
+      - "660.0"
+    r_min:
+      - "660.0"
+        
+  area661.0_up5000_total5000:
+    f_max:
+      - "661.0"
+    r_min:
+      - "661.0"
+        
+  area662.0_up5000_total5000:
+    f_max:
+      - "662.0"
+    r_min:
+      - "662.0"
+        
+  area663.0_up5000_total5000:
+    f_max:
+      - "663.0"
+    r_min:
+      - "663.0"
+        
+  area664.0_up5000_total5000:
+    f_max:
+      - "664.0"
+    r_min:
+      - "664.0"
+        
+  area665.0_up5000_total5000:
+    f_max:
+      - "665.0"
+    r_min:
+      - "665.0"
+        
+  area666.0_up5000_total5000:
+    f_max:
+      - "666.0"
+    r_min:
+      - "666.0"
+        
+  area667.0_up5000_total5000:
+    f_max:
+      - "667.0"
+    r_min:
+      - "667.0"
+        
+  area668.0_up5000_total5000:
+    f_max:
+      - "668.0"
+    r_min:
+      - "668.0"
+        
+  area669.0_up5000_total5000:
+    f_max:
+      - "669.0"
+    r_min:
+      - "669.0"
+        
+  area670.0_up5000_total5000:
+    f_max:
+      - "670.0"
+    r_min:
+      - "670.0"
+        
+  area671.0_up5000_total5000:
+    f_max:
+      - "671.0"
+    r_min:
+      - "671.0"
+        
+  area672.0_up5000_total5000:
+    f_max:
+      - "672.0"
+    r_min:
+      - "672.0"
+        
+  area673.0_up5000_total5000:
+    f_max:
+      - "673.0"
+    r_min:
+      - "673.0"
+        
+  area674.0_up5000_total5000:
+    f_max:
+      - "674.0"
+    r_min:
+      - "674.0"
+        
+  area675.0_up5000_total5000:
+    f_max:
+      - "675.0"
+    r_min:
+      - "675.0"
+        
+  area676.0_up5000_total5000:
+    f_max:
+      - "676.0"
+    r_min:
+      - "676.0"
+        
+  area677.0_up5000_total5000:
+    f_max:
+      - "677.0"
+    r_min:
+      - "677.0"
+        
+  area678.0_up5000_total5000:
+    f_max:
+      - "678.0"
+    r_min:
+      - "678.0"
+        
+  area679.0_up5000_total5000:
+    f_max:
+      - "679.0"
+    r_min:
+      - "679.0"
+        
+  area680.0_up5000_total5000:
+    f_max:
+      - "680.0"
+    r_min:
+      - "680.0"
+        
+  area681.0_up5000_total5000:
+    f_max:
+      - "681.0"
+    r_min:
+      - "681.0"
+        
+  area682.0_up5000_total5000:
+    f_max:
+      - "682.0"
+    r_min:
+      - "682.0"
+        
+  area683.0_up5000_total5000:
+    f_max:
+      - "683.0"
+    r_min:
+      - "683.0"
+        
+  area684.0_up5000_total5000:
+    f_max:
+      - "684.0"
+    r_min:
+      - "684.0"
+        
+  area685.0_up5000_total5000:
+    f_max:
+      - "685.0"
+    r_min:
+      - "685.0"
+        
+  area686.0_up5000_total5000:
+    f_max:
+      - "686.0"
+    r_min:
+      - "686.0"
+        
+  area687.0_up5000_total5000:
+    f_max:
+      - "687.0"
+    r_min:
+      - "687.0"
+        
+  area688.0_up5000_total5000:
+    f_max:
+      - "688.0"
+    r_min:
+      - "688.0"
+        
+  area689.0_up5000_total5000:
+    f_max:
+      - "689.0"
+    r_min:
+      - "689.0"
+        
+  area690.0_up5000_total5000:
+    f_max:
+      - "690.0"
+    r_min:
+      - "690.0"
+        
+  area691.0_up5000_total5000:
+    f_max:
+      - "691.0"
+    r_min:
+      - "691.0"
+        
+  area692.0_up5000_total5000:
+    f_max:
+      - "692.0"
+    r_min:
+      - "692.0"
+        
+  area693.0_up5000_total5000:
+    f_max:
+      - "693.0"
+    r_min:
+      - "693.0"
+        
+  area694.0_up5000_total5000:
+    f_max:
+      - "694.0"
+    r_min:
+      - "694.0"
+        
+  area695.0_up5000_total5000:
+    f_max:
+      - "695.0"
+    r_min:
+      - "695.0"
+        
+  area696.0_up5000_total5000:
+    f_max:
+      - "696.0"
+    r_min:
+      - "696.0"
+        
+  area697.0_up5000_total5000:
+    f_max:
+      - "697.0"
+    r_min:
+      - "697.0"
+        
+  area698.0_up5000_total5000:
+    f_max:
+      - "698.0"
+    r_min:
+      - "698.0"
+        
+  area699.0_up5000_total5000:
+    f_max:
+      - "699.0"
+    r_min:
+      - "699.0"
+        
+  area700.0_up5000_total5000:
+    f_max:
+      - "700.0"
+    r_min:
+      - "700.0"
+        
+  area701.0_up5000_total5000:
+    f_max:
+      - "701.0"
+    r_min:
+      - "701.0"
+        
+  area702.0_up5000_total5000:
+    f_max:
+      - "702.0"
+    r_min:
+      - "702.0"
+        
+  area703.0_up5000_total5000:
+    f_max:
+      - "703.0"
+    r_min:
+      - "703.0"
+        
+  area704.0_up5000_total5000:
+    f_max:
+      - "704.0"
+    r_min:
+      - "704.0"
+        
+  area705.0_up5000_total5000:
+    f_max:
+      - "705.0"
+    r_min:
+      - "705.0"
+        
+  area706.0_up5000_total5000:
+    f_max:
+      - "706.0"
+    r_min:
+      - "706.0"
+        
+  area707.0_up5000_total5000:
+    f_max:
+      - "707.0"
+    r_min:
+      - "707.0"
+        
+  area708.0_up5000_total5000:
+    f_max:
+      - "708.0"
+    r_min:
+      - "708.0"
+        
+  area709.0_up5000_total5000:
+    f_max:
+      - "709.0"
+    r_min:
+      - "709.0"
+        
+  area710.0_up5000_total5000:
+    f_max:
+      - "710.0"
+    r_min:
+      - "710.0"
+        
+  area711.0_up5000_total5000:
+    f_max:
+      - "711.0"
+    r_min:
+      - "711.0"
+        
+  area712.0_up5000_total5000:
+    f_max:
+      - "712.0"
+    r_min:
+      - "712.0"
+        
+  area713.0_up5000_total5000:
+    f_max:
+      - "713.0"
+    r_min:
+      - "713.0"
+        
+  area714.0_up5000_total5000:
+    f_max:
+      - "714.0"
+    r_min:
+      - "714.0"
+        
+  area715.0_up5000_total5000:
+    f_max:
+      - "715.0"
+    r_min:
+      - "715.0"
+        
+  area716.0_up5000_total5000:
+    f_max:
+      - "716.0"
+    r_min:
+      - "716.0"
+        
+  area717.0_up5000_total5000:
+    f_max:
+      - "717.0"
+    r_min:
+      - "717.0"
+        
+  area718.0_up5000_total5000:
+    f_max:
+      - "718.0"
+    r_min:
+      - "718.0"
+        
+  area719.0_up5000_total5000:
+    f_max:
+      - "719.0"
+    r_min:
+      - "719.0"
+        
+  area720.0_up5000_total5000:
+    f_max:
+      - "720.0"
+    r_min:
+      - "720.0"
+        
+  area721.0_up5000_total5000:
+    f_max:
+      - "721.0"
+    r_min:
+      - "721.0"
+        
+  area722.0_up5000_total5000:
+    f_max:
+      - "722.0"
+    r_min:
+      - "722.0"
+        
+  area723.0_up5000_total5000:
+    f_max:
+      - "723.0"
+    r_min:
+      - "723.0"
+        
+  area724.0_up5000_total5000:
+    f_max:
+      - "724.0"
+    r_min:
+      - "724.0"
+        
+  area725.0_up5000_total5000:
+    f_max:
+      - "725.0"
+    r_min:
+      - "725.0"
+        
+  area726.0_up5000_total5000:
+    f_max:
+      - "726.0"
+    r_min:
+      - "726.0"
+        
+  area727.0_up5000_total5000:
+    f_max:
+      - "727.0"
+    r_min:
+      - "727.0"
+        
+  area728.0_up5000_total5000:
+    f_max:
+      - "728.0"
+    r_min:
+      - "728.0"
+        
+  area729.0_up5000_total5000:
+    f_max:
+      - "729.0"
+    r_min:
+      - "729.0"
+        
+  area730.0_up5000_total5000:
+    f_max:
+      - "730.0"
+    r_min:
+      - "730.0"
+        
+  area731.0_up5000_total5000:
+    f_max:
+      - "731.0"
+    r_min:
+      - "731.0"
+        
+  area732.0_up5000_total5000:
+    f_max:
+      - "732.0"
+    r_min:
+      - "732.0"
+        
+  area733.0_up5000_total5000:
+    f_max:
+      - "733.0"
+    r_min:
+      - "733.0"
+        
+  area734.0_up5000_total5000:
+    f_max:
+      - "734.0"
+    r_min:
+      - "734.0"
+        
+  area735.0_up5000_total5000:
+    f_max:
+      - "735.0"
+    r_min:
+      - "735.0"
+        
+  area736.0_up5000_total5000:
+    f_max:
+      - "736.0"
+    r_min:
+      - "736.0"
+        
+  area737.0_up5000_total5000:
+    f_max:
+      - "737.0"
+    r_min:
+      - "737.0"
+        
+  area738.0_up5000_total5000:
+    f_max:
+      - "738.0"
+    r_min:
+      - "738.0"
+        
+  area739.0_up5000_total5000:
+    f_max:
+      - "739.0"
+    r_min:
+      - "739.0"
+        
+  area740.0_up5000_total5000:
+    f_max:
+      - "740.0"
+    r_min:
+      - "740.0"
+        
+  area741.0_up5000_total5000:
+    f_max:
+      - "741.0"
+    r_min:
+      - "741.0"
+        
+  area742.0_up5000_total5000:
+    f_max:
+      - "742.0"
+    r_min:
+      - "742.0"
+        
+  area743.0_up5000_total5000:
+    f_max:
+      - "743.0"
+    r_min:
+      - "743.0"
+        
+  area744.0_up5000_total5000:
+    f_max:
+      - "744.0"
+    r_min:
+      - "744.0"
+        
+  area745.0_up5000_total5000:
+    f_max:
+      - "745.0"
+    r_min:
+      - "745.0"
+        
+  area746.0_up5000_total5000:
+    f_max:
+      - "746.0"
+    r_min:
+      - "746.0"
+        
+  area747.0_up5000_total5000:
+    f_max:
+      - "747.0"
+    r_min:
+      - "747.0"
+        
+  area748.0_up5000_total5000:
+    f_max:
+      - "748.0"
+    r_min:
+      - "748.0"
+        
+  area749.0_up5000_total5000:
+    f_max:
+      - "749.0"
+    r_min:
+      - "749.0"
+        
+  area750.0_up5000_total5000:
+    f_max:
+      - "750.0"
+    r_min:
+      - "750.0"
+        
+  area751.0_up5000_total5000:
+    f_max:
+      - "751.0"
+    r_min:
+      - "751.0"
+        
+  area752.0_up5000_total5000:
+    f_max:
+      - "752.0"
+    r_min:
+      - "752.0"
+        
+  area753.0_up5000_total5000:
+    f_max:
+      - "753.0"
+    r_min:
+      - "753.0"
+        
+  area754.0_up5000_total5000:
+    f_max:
+      - "754.0"
+    r_min:
+      - "754.0"
+        
+  area755.0_up5000_total5000:
+    f_max:
+      - "755.0"
+    r_min:
+      - "755.0"
+        
+  area756.0_up5000_total5000:
+    f_max:
+      - "756.0"
+    r_min:
+      - "756.0"
+        
+  area757.0_up5000_total5000:
+    f_max:
+      - "757.0"
+    r_min:
+      - "757.0"
+        
+  area758.0_up5000_total5000:
+    f_max:
+      - "758.0"
+    r_min:
+      - "758.0"
+        
+  area759.0_up5000_total5000:
+    f_max:
+      - "759.0"
+    r_min:
+      - "759.0"
+        
+  area760.0_up5000_total5000:
+    f_max:
+      - "760.0"
+    r_min:
+      - "760.0"
+        
+  area761.0_up5000_total5000:
+    f_max:
+      - "761.0"
+    r_min:
+      - "761.0"
+        
+  area762.0_up5000_total5000:
+    f_max:
+      - "762.0"
+    r_min:
+      - "762.0"
+        
+  area763.0_up5000_total5000:
+    f_max:
+      - "763.0"
+    r_min:
+      - "763.0"
+        
+  area764.0_up5000_total5000:
+    f_max:
+      - "764.0"
+    r_min:
+      - "764.0"
+        
+  area765.0_up5000_total5000:
+    f_max:
+      - "765.0"
+    r_min:
+      - "765.0"
+        
+  area766.0_up5000_total5000:
+    f_max:
+      - "766.0"
+    r_min:
+      - "766.0"
+        
+  area767.0_up5000_total5000:
+    f_max:
+      - "767.0"
+    r_min:
+      - "767.0"
+        
+  area768.0_up5000_total5000:
+    f_max:
+      - "768.0"
+    r_min:
+      - "768.0"
+        
+  area769.0_up5000_total5000:
+    f_max:
+      - "769.0"
+    r_min:
+      - "769.0"
+        
+  area770.0_up5000_total5000:
+    f_max:
+      - "770.0"
+    r_min:
+      - "770.0"
+        
+  area771.0_up5000_total5000:
+    f_max:
+      - "771.0"
+    r_min:
+      - "771.0"
+        
+  area772.0_up5000_total5000:
+    f_max:
+      - "772.0"
+    r_min:
+      - "772.0"
+        
+  area773.0_up5000_total5000:
+    f_max:
+      - "773.0"
+    r_min:
+      - "773.0"
+        
+  area774.0_up5000_total5000:
+    f_max:
+      - "774.0"
+    r_min:
+      - "774.0"
+        
+  area775.0_up5000_total5000:
+    f_max:
+      - "775.0"
+    r_min:
+      - "775.0"
+        
+  area776.0_up5000_total5000:
+    f_max:
+      - "776.0"
+    r_min:
+      - "776.0"
+        
+  area777.0_up5000_total5000:
+    f_max:
+      - "777.0"
+    r_min:
+      - "777.0"
+        
+  area778.0_up5000_total5000:
+    f_max:
+      - "778.0"
+    r_min:
+      - "778.0"
+        
+  area779.0_up5000_total5000:
+    f_max:
+      - "779.0"
+    r_min:
+      - "779.0"
+        
+  area780.0_up5000_total5000:
+    f_max:
+      - "780.0"
+    r_min:
+      - "780.0"
+        
+  area781.0_up5000_total5000:
+    f_max:
+      - "781.0"
+    r_min:
+      - "781.0"
+        
+  area782.0_up5000_total5000:
+    f_max:
+      - "782.0"
+    r_min:
+      - "782.0"
+        
+  area783.0_up5000_total5000:
+    f_max:
+      - "783.0"
+    r_min:
+      - "783.0"
+        
+  area784.0_up5000_total5000:
+    f_max:
+      - "784.0"
+    r_min:
+      - "784.0"
+        
+  area785.0_up5000_total5000:
+    f_max:
+      - "785.0"
+    r_min:
+      - "785.0"
+        
+  area786.0_up5000_total5000:
+    f_max:
+      - "786.0"
+    r_min:
+      - "786.0"
+        
+  area787.0_up5000_total5000:
+    f_max:
+      - "787.0"
+    r_min:
+      - "787.0"
+        
+  area788.0_up5000_total5000:
+    f_max:
+      - "788.0"
+    r_min:
+      - "788.0"
+        
+  area789.0_up5000_total5000:
+    f_max:
+      - "789.0"
+    r_min:
+      - "789.0"
+        
+  area790.0_up5000_total5000:
+    f_max:
+      - "790.0"
+    r_min:
+      - "790.0"
+        
+  area791.0_up5000_total5000:
+    f_max:
+      - "791.0"
+    r_min:
+      - "791.0"
+        
+  area792.0_up5000_total5000:
+    f_max:
+      - "792.0"
+    r_min:
+      - "792.0"
+        
+  area793.0_up5000_total5000:
+    f_max:
+      - "793.0"
+    r_min:
+      - "793.0"
+        
+  area794.0_up5000_total5000:
+    f_max:
+      - "794.0"
+    r_min:
+      - "794.0"
+        
+  area795.0_up5000_total5000:
+    f_max:
+      - "795.0"
+    r_min:
+      - "795.0"
+        
+  area796.0_up5000_total5000:
+    f_max:
+      - "796.0"
+    r_min:
+      - "796.0"
+        
+  area797.0_up5000_total5000:
+    f_max:
+      - "797.0"
+    r_min:
+      - "797.0"
+        
+  area798.0_up5000_total5000:
+    f_max:
+      - "798.0"
+    r_min:
+      - "798.0"
+        
+  area799.0_up5000_total5000:
+    f_max:
+      - "799.0"
+    r_min:
+      - "799.0"
+        
+  area800.0_up5000_total5000:
+    f_max:
+      - "800.0"
+    r_min:
+      - "800.0"
+        
+  area801.0_up5000_total5000:
+    f_max:
+      - "801.0"
+    r_min:
+      - "801.0"
+        
+  area802.0_up5000_total5000:
+    f_max:
+      - "802.0"
+    r_min:
+      - "802.0"
+        
+  area803.0_up5000_total5000:
+    f_max:
+      - "803.0"
+    r_min:
+      - "803.0"
+        
+  area804.0_up5000_total5000:
+    f_max:
+      - "804.0"
+    r_min:
+      - "804.0"
+        
+  area805.0_up5000_total5000:
+    f_max:
+      - "805.0"
+    r_min:
+      - "805.0"
+        
+  area806.0_up5000_total5000:
+    f_max:
+      - "806.0"
+    r_min:
+      - "806.0"
+        
+  area807.0_up5000_total5000:
+    f_max:
+      - "807.0"
+    r_min:
+      - "807.0"
+        
+  area808.0_up5000_total5000:
+    f_max:
+      - "808.0"
+    r_min:
+      - "808.0"
+        
+  area809.0_up5000_total5000:
+    f_max:
+      - "809.0"
+    r_min:
+      - "809.0"
+        
+  area810.0_up5000_total5000:
+    f_max:
+      - "810.0"
+    r_min:
+      - "810.0"
+        
+  area811.0_up5000_total5000:
+    f_max:
+      - "811.0"
+    r_min:
+      - "811.0"
+        
+  area812.0_up5000_total5000:
+    f_max:
+      - "812.0"
+    r_min:
+      - "812.0"
+        
+  area813.0_up5000_total5000:
+    f_max:
+      - "813.0"
+    r_min:
+      - "813.0"
+        
+  area814.0_up5000_total5000:
+    f_max:
+      - "814.0"
+    r_min:
+      - "814.0"
+        
+  area815.0_up5000_total5000:
+    f_max:
+      - "815.0"
+    r_min:
+      - "815.0"
+        
+  area816.0_up5000_total5000:
+    f_max:
+      - "816.0"
+    r_min:
+      - "816.0"
+        
+  area817.0_up5000_total5000:
+    f_max:
+      - "817.0"
+    r_min:
+      - "817.0"
+        
+  area818.0_up5000_total5000:
+    f_max:
+      - "818.0"
+    r_min:
+      - "818.0"
+        
+  area819.0_up5000_total5000:
+    f_max:
+      - "819.0"
+    r_min:
+      - "819.0"
+        
+  area820.0_up5000_total5000:
+    f_max:
+      - "820.0"
+    r_min:
+      - "820.0"
+        
+  area821.0_up5000_total5000:
+    f_max:
+      - "821.0"
+    r_min:
+      - "821.0"
+        
+  area822.0_up5000_total5000:
+    f_max:
+      - "822.0"
+    r_min:
+      - "822.0"
+        
+  area823.0_up5000_total5000:
+    f_max:
+      - "823.0"
+    r_min:
+      - "823.0"
+        
+  area824.0_up5000_total5000:
+    f_max:
+      - "824.0"
+    r_min:
+      - "824.0"
+        
+  area825.0_up5000_total5000:
+    f_max:
+      - "825.0"
+    r_min:
+      - "825.0"
+        
+  area826.0_up5000_total5000:
+    f_max:
+      - "826.0"
+    r_min:
+      - "826.0"
+        
+  area827.0_up5000_total5000:
+    f_max:
+      - "827.0"
+    r_min:
+      - "827.0"
+        
+  area828.0_up5000_total5000:
+    f_max:
+      - "828.0"
+    r_min:
+      - "828.0"
+        
+  area829.0_up5000_total5000:
+    f_max:
+      - "829.0"
+    r_min:
+      - "829.0"
+        
+  area830.0_up5000_total5000:
+    f_max:
+      - "830.0"
+    r_min:
+      - "830.0"
+        
+  area831.0_up5000_total5000:
+    f_max:
+      - "831.0"
+    r_min:
+      - "831.0"
+        
+  area832.0_up5000_total5000:
+    f_max:
+      - "832.0"
+    r_min:
+      - "832.0"
+        
+  area833.0_up5000_total5000:
+    f_max:
+      - "833.0"
+    r_min:
+      - "833.0"
+        
+  area834.0_up5000_total5000:
+    f_max:
+      - "834.0"
+    r_min:
+      - "834.0"
+        
+  area835.0_up5000_total5000:
+    f_max:
+      - "835.0"
+    r_min:
+      - "835.0"
+        
+  area836.0_up5000_total5000:
+    f_max:
+      - "836.0"
+    r_min:
+      - "836.0"
+        
+  area837.0_up5000_total5000:
+    f_max:
+      - "837.0"
+    r_min:
+      - "837.0"
+        
+  area838.0_up5000_total5000:
+    f_max:
+      - "838.0"
+    r_min:
+      - "838.0"
+        
+  area839.0_up5000_total5000:
+    f_max:
+      - "839.0"
+    r_min:
+      - "839.0"
+        
+  area840.0_up5000_total5000:
+    f_max:
+      - "840.0"
+    r_min:
+      - "840.0"
+        
+  area841.0_up5000_total5000:
+    f_max:
+      - "841.0"
+    r_min:
+      - "841.0"
+        
+  area842.0_up5000_total5000:
+    f_max:
+      - "842.0"
+    r_min:
+      - "842.0"
+        
+  area843.0_up5000_total5000:
+    f_max:
+      - "843.0"
+    r_min:
+      - "843.0"
+        
+  area844.0_up5000_total5000:
+    f_max:
+      - "844.0"
+    r_min:
+      - "844.0"
+        
+  area845.0_up5000_total5000:
+    f_max:
+      - "845.0"
+    r_min:
+      - "845.0"
+        
+  area846.0_up5000_total5000:
+    f_max:
+      - "846.0"
+    r_min:
+      - "846.0"
+        
+  area847.0_up5000_total5000:
+    f_max:
+      - "847.0"
+    r_min:
+      - "847.0"
+        
+  area848.0_up5000_total5000:
+    f_max:
+      - "848.0"
+    r_min:
+      - "848.0"
+        
+  area849.0_up5000_total5000:
+    f_max:
+      - "849.0"
+    r_min:
+      - "849.0"
+        
+  area850.0_up5000_total5000:
+    f_max:
+      - "850.0"
+    r_min:
+      - "850.0"
+        
+  area851.0_up5000_total5000:
+    f_max:
+      - "851.0"
+    r_min:
+      - "851.0"
+        
+  area852.0_up5000_total5000:
+    f_max:
+      - "852.0"
+    r_min:
+      - "852.0"
+        
+  area853.0_up5000_total5000:
+    f_max:
+      - "853.0"
+    r_min:
+      - "853.0"
+        
+  area854.0_up5000_total5000:
+    f_max:
+      - "854.0"
+    r_min:
+      - "854.0"
+        
+  area855.0_up5000_total5000:
+    f_max:
+      - "855.0"
+    r_min:
+      - "855.0"
+        
+  area856.0_up5000_total5000:
+    f_max:
+      - "856.0"
+    r_min:
+      - "856.0"
+        
+  area857.0_up5000_total5000:
+    f_max:
+      - "857.0"
+    r_min:
+      - "857.0"
+        
+  area858.0_up5000_total5000:
+    f_max:
+      - "858.0"
+    r_min:
+      - "858.0"
+        
+  area859.0_up5000_total5000:
+    f_max:
+      - "859.0"
+    r_min:
+      - "859.0"
+        
+  area860.0_up5000_total5000:
+    f_max:
+      - "860.0"
+    r_min:
+      - "860.0"
+        
+  area861.0_up5000_total5000:
+    f_max:
+      - "861.0"
+    r_min:
+      - "861.0"
+        
+  area862.0_up5000_total5000:
+    f_max:
+      - "862.0"
+    r_min:
+      - "862.0"
+        
+  area863.0_up5000_total5000:
+    f_max:
+      - "863.0"
+    r_min:
+      - "863.0"
+        
+  area864.0_up5000_total5000:
+    f_max:
+      - "864.0"
+    r_min:
+      - "864.0"
+        
+  area865.0_up5000_total5000:
+    f_max:
+      - "865.0"
+    r_min:
+      - "865.0"
+        
+  area866.0_up5000_total5000:
+    f_max:
+      - "866.0"
+    r_min:
+      - "866.0"
+        
+  area867.0_up5000_total5000:
+    f_max:
+      - "867.0"
+    r_min:
+      - "867.0"
+        
+  area868.0_up5000_total5000:
+    f_max:
+      - "868.0"
+    r_min:
+      - "868.0"
+        
+  area869.0_up5000_total5000:
+    f_max:
+      - "869.0"
+    r_min:
+      - "869.0"
+        
+  area870.0_up5000_total5000:
+    f_max:
+      - "870.0"
+    r_min:
+      - "870.0"
+        
+  area871.0_up5000_total5000:
+    f_max:
+      - "871.0"
+    r_min:
+      - "871.0"
+        
+  area872.0_up5000_total5000:
+    f_max:
+      - "872.0"
+    r_min:
+      - "872.0"
+        
+  area873.0_up5000_total5000:
+    f_max:
+      - "873.0"
+    r_min:
+      - "873.0"
+        
+  area874.0_up5000_total5000:
+    f_max:
+      - "874.0"
+    r_min:
+      - "874.0"
+        
+  area875.0_up5000_total5000:
+    f_max:
+      - "875.0"
+    r_min:
+      - "875.0"
+        
+  area876.0_up5000_total5000:
+    f_max:
+      - "876.0"
+    r_min:
+      - "876.0"
+        
+  area877.0_up5000_total5000:
+    f_max:
+      - "877.0"
+    r_min:
+      - "877.0"
+        
+  area878.0_up5000_total5000:
+    f_max:
+      - "878.0"
+    r_min:
+      - "878.0"
+        
+  area879.0_up5000_total5000:
+    f_max:
+      - "879.0"
+    r_min:
+      - "879.0"
+        
+  area880.0_up5000_total5000:
+    f_max:
+      - "880.0"
+    r_min:
+      - "880.0"
+        
+  area881.0_up5000_total5000:
+    f_max:
+      - "881.0"
+    r_min:
+      - "881.0"
+        
+  area882.0_up5000_total5000:
+    f_max:
+      - "882.0"
+    r_min:
+      - "882.0"

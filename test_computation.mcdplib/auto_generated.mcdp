@@ -1,0 +1,130 @@
+mcdp{
+    # instances
+    Computation_gpu = instance `Computation__gpu
+    Computation_cpu = instance `Computation__cpu
+    Computation_time_1 = instance `Computation__time
+    Computation_time_2 = instance `Computation__time
+
+    # global requires/provides
+    requires TTYY__reqPower [dimensionless]
+    requires TTYY__reqCost [dimensionless]
+    requires TTYY__reqTime [dimensionless]
+    provides TTYY__proF1 [dimensionless]
+    provides TTYY__proF2 [dimensionless]
+    # internal (comments: LUT)
+    # edges: 15   internal wires reserved: 30
+    # wires:
+    #   internal__COMPILE__infor2mcdp__1 .. internal__COMPILE__infor2mcdp__30
+    # Units:
+    #   Computation_cpu:
+    #     req:
+    #       COMPILER_infor2mcdp__Computation_cpu__reqCOMPILER_DEFAULT_R1  ->  internal__COMPILE__infor2mcdp__1__req
+    #       COMPILER_infor2mcdp__Computation_cpu__reqCOMPILER_DEFAULT_R2  ->  internal__COMPILE__infor2mcdp__2__req
+    #     pro:
+    #       COMPILER_infor2mcdp__Computation_cpu__proCOMPILER_DEFAULT_F1  ->  internal__COMPILE__infor2mcdp__3__pro
+    #   Computation_gpu:
+    #     req:
+    #       COMPILER_infor2mcdp__Computation_gpu__reqCOMPILER_DEFAULT_R1  ->  internal__COMPILE__infor2mcdp__4__req
+    #       COMPILER_infor2mcdp__Computation_gpu__reqCOMPILER_DEFAULT_R2  ->  internal__COMPILE__infor2mcdp__5__req
+    #     pro:
+    #       COMPILER_infor2mcdp__Computation_gpu__proCOMPILER_DEFAULT_F1  ->  internal__COMPILE__infor2mcdp__6__pro
+    #   Computation_time_1:
+    #     req:
+    #       COMPILER_infor2mcdp__Computation_time_1__reqCOMPILER_DEFAULT_R1  ->  internal__COMPILE__infor2mcdp__7__req
+    #     pro:
+    #       COMPILER_infor2mcdp__Computation_time_1__proCOMPILER_DEFAULT_F1  ->  internal__COMPILE__infor2mcdp__8__pro
+    #   Computation_time_2:
+    #     req:
+    #       COMPILER_infor2mcdp__Computation_time_2__reqCOMPILER_DEFAULT_R1  ->  internal__COMPILE__infor2mcdp__9__req
+    #     pro:
+    #       COMPILER_infor2mcdp__Computation_time_2__proCOMPILER_DEFAULT_F1  ->  internal__COMPILE__infor2mcdp__10__pro
+    # Resources:
+    #   Cost:
+    #     out[1]  ->  internal__COMPILE__infor2mcdp__11__req
+    #   Power:
+    #     out[1]  ->  internal__COMPILE__infor2mcdp__12__req
+    #   Time:
+    #     out[1]  ->  internal__COMPILE__infor2mcdp__13__req
+    # Functionalities:
+    #   F1:
+    #     in[1]   ->  internal__COMPILE__infor2mcdp__14__pro
+    #   F2:
+    #     in[1]   ->  internal__COMPILE__infor2mcdp__15__pro
+    # Operators:
+    #   add_1:
+    #     input_a: internal__COMPILE__infor2mcdp__4__req
+    #     input_b: internal__COMPILE__infor2mcdp__1__req
+    #     output_c: internal__COMPILE__infor2mcdp__11__req
+    #     internal__COMPILE__infor2mcdp__op__add_1__input_a__req -> internal__COMPILE__infor2mcdp__4__req
+    #     internal__COMPILE__infor2mcdp__op__add_1__input_b__req -> internal__COMPILE__infor2mcdp__1__req
+    #     internal__COMPILE__infor2mcdp__op__add_1__output_c__req -> internal__COMPILE__infor2mcdp__11__req
+    #   add_2:
+    #     input_a: internal__COMPILE__infor2mcdp__5__req
+    #     input_b: internal__COMPILE__infor2mcdp__2__req
+    #     output_c: internal__COMPILE__infor2mcdp__12__req
+    #     internal__COMPILE__infor2mcdp__op__add_2__input_a__req -> internal__COMPILE__infor2mcdp__5__req
+    #     internal__COMPILE__infor2mcdp__op__add_2__input_b__req -> internal__COMPILE__infor2mcdp__2__req
+    #     internal__COMPILE__infor2mcdp__op__add_2__output_c__req -> internal__COMPILE__infor2mcdp__12__req
+    #   add_3:
+    #     input_a: internal__COMPILE__infor2mcdp__9__req
+    #     input_b: internal__COMPILE__infor2mcdp__7__req
+    #     output_c: internal__COMPILE__infor2mcdp__13__req
+    #     internal__COMPILE__infor2mcdp__op__add_3__input_a__req -> internal__COMPILE__infor2mcdp__9__req
+    #     internal__COMPILE__infor2mcdp__op__add_3__input_b__req -> internal__COMPILE__infor2mcdp__7__req
+    #     internal__COMPILE__infor2mcdp__op__add_3__output_c__req -> internal__COMPILE__infor2mcdp__13__req
+    #   mul_1:
+    #     input_a: internal__COMPILE__infor2mcdp__3__pro
+    #     input_b: internal__COMPILE__infor2mcdp__8__pro
+    #     output_c: internal__COMPILE__infor2mcdp__15__pro
+    #     internal__COMPILE__infor2mcdp__op__mul_1__input_a__pro -> internal__COMPILE__infor2mcdp__3__pro
+    #     internal__COMPILE__infor2mcdp__op__mul_1__input_b__pro -> internal__COMPILE__infor2mcdp__8__pro
+    #     internal__COMPILE__infor2mcdp__op__mul_1__output_c__pro -> internal__COMPILE__infor2mcdp__15__pro
+    #   mul_2:
+    #     input_a: internal__COMPILE__infor2mcdp__10__pro
+    #     input_b: internal__COMPILE__infor2mcdp__6__pro
+    #     output_c: internal__COMPILE__infor2mcdp__14__pro
+    #     internal__COMPILE__infor2mcdp__op__mul_2__input_a__pro -> internal__COMPILE__infor2mcdp__10__pro
+    #     internal__COMPILE__infor2mcdp__op__mul_2__input_b__pro -> internal__COMPILE__infor2mcdp__6__pro
+    #     internal__COMPILE__infor2mcdp__op__mul_2__output_c__pro -> internal__COMPILE__infor2mcdp__14__pro
+    # (unused internal wires remain: 16..30)
+
+    # internal (exec wiring)
+    internal__COMPILE__infor2mcdp__1__req = COMPILER_infor2mcdp__Computation_cpu__reqCOMPILER_DEFAULT_R1 required by Computation_cpu
+    internal__COMPILE__infor2mcdp__2__req = COMPILER_infor2mcdp__Computation_cpu__reqCOMPILER_DEFAULT_R2 required by Computation_cpu
+    internal__COMPILE__infor2mcdp__3__pro = COMPILER_infor2mcdp__Computation_cpu__proCOMPILER_DEFAULT_F1 provided by Computation_cpu
+    internal__COMPILE__infor2mcdp__4__req = COMPILER_infor2mcdp__Computation_gpu__reqCOMPILER_DEFAULT_R1 required by Computation_gpu
+    internal__COMPILE__infor2mcdp__5__req = COMPILER_infor2mcdp__Computation_gpu__reqCOMPILER_DEFAULT_R2 required by Computation_gpu
+    internal__COMPILE__infor2mcdp__6__pro = COMPILER_infor2mcdp__Computation_gpu__proCOMPILER_DEFAULT_F1 provided by Computation_gpu
+    internal__COMPILE__infor2mcdp__7__req = COMPILER_infor2mcdp__Computation_time_1__reqCOMPILER_DEFAULT_R1 required by Computation_time_1
+    internal__COMPILE__infor2mcdp__8__pro = COMPILER_infor2mcdp__Computation_time_1__proCOMPILER_DEFAULT_F1 provided by Computation_time_1
+    internal__COMPILE__infor2mcdp__9__req = COMPILER_infor2mcdp__Computation_time_2__reqCOMPILER_DEFAULT_R1 required by Computation_time_2
+    internal__COMPILE__infor2mcdp__10__pro = COMPILER_infor2mcdp__Computation_time_2__proCOMPILER_DEFAULT_F1 provided by Computation_time_2
+    #internal__COMPILE__infor2mcdp__11__req >= required TTYY__reqCost
+    #internal__COMPILE__infor2mcdp__12__req >= required TTYY__reqPower
+    #internal__COMPILE__infor2mcdp__13__req >= required TTYY__reqTime
+    #internal__COMPILE__infor2mcdp__14__pro <= provided TTYY__proF1
+    #internal__COMPILE__infor2mcdp__15__pro <= provided TTYY__proF2
+    internal__COMPILE__infor2mcdp__op__add_1__input_a__req = internal__COMPILE__infor2mcdp__4__req
+    internal__COMPILE__infor2mcdp__op__add_1__input_b__req = internal__COMPILE__infor2mcdp__1__req
+    internal__COMPILE__infor2mcdp__op__add_2__input_a__req = internal__COMPILE__infor2mcdp__5__req 
+    internal__COMPILE__infor2mcdp__op__add_2__input_b__req = internal__COMPILE__infor2mcdp__2__req 
+    internal__COMPILE__infor2mcdp__op__add_3__input_a__req = internal__COMPILE__infor2mcdp__9__req 
+    internal__COMPILE__infor2mcdp__op__add_3__input_b__req = internal__COMPILE__infor2mcdp__7__req 
+    internal__COMPILE__infor2mcdp__op__mul_1__input_a__pro = internal__COMPILE__infor2mcdp__3__pro 
+    internal__COMPILE__infor2mcdp__op__mul_1__input_b__pro = internal__COMPILE__infor2mcdp__8__pro 
+    internal__COMPILE__infor2mcdp__op__mul_1__output_c__pro = internal__COMPILE__infor2mcdp__15__pro 
+    internal__COMPILE__infor2mcdp__op__mul_2__input_a__pro = internal__COMPILE__infor2mcdp__10__pro 
+    internal__COMPILE__infor2mcdp__op__mul_2__input_b__pro = internal__COMPILE__infor2mcdp__6__pro 
+
+    # compute
+    # compute (operators)
+
+    # interconnection
+    provided TTYY__proF1 <= internal__COMPILE__infor2mcdp__op__mul_2__input_a__pro * internal__COMPILE__infor2mcdp__op__mul_2__input_b__pro
+    provided TTYY__proF2 <= internal__COMPILE__infor2mcdp__op__mul_1__input_a__pro * internal__COMPILE__infor2mcdp__op__mul_1__input_b__pro
+    required TTYY__reqCost >= internal__COMPILE__infor2mcdp__op__add_1__input_a__req + internal__COMPILE__infor2mcdp__op__add_1__input_b__req
+    required TTYY__reqPower >= internal__COMPILE__infor2mcdp__op__add_2__input_a__req + internal__COMPILE__infor2mcdp__op__add_2__input_b__req
+    required TTYY__reqTime >= internal__COMPILE__infor2mcdp__op__add_3__input_a__req + internal__COMPILE__infor2mcdp__op__add_3__input_b__req
+
+}
+#mcdp-solve -d test_computation.mcdplib auto_generated '<120,300>' --imp --plot --out 'test_computation.mcdplib.outputs' --lower '100' --upper '100' --nocache
