@@ -1,0 +1,227 @@
+F:
+  - "`Network"       # Software__self__Layers
+  - "dimensionless"       # Software__self__Accuracy
+R:
+  - "dimensionless"       # Software__self__reqPossibility
+  - "dimensionless"       # Software__self__reqTime
+
+implementations:
+  nn0_0:
+    f_max:
+      - "`Network:nn0"
+      - "80"
+    r_min:
+      - "1.4286"
+      - "350"
+  nn0_1:
+    f_max:
+      - "`Network:nn0"
+      - "85"
+    r_min:
+      - "2.0"
+      - "350"
+  nn0_2:
+    f_max:
+      - "`Network:nn0"
+      - "85"
+    r_min:
+      - "1.25"
+      - "500"
+
+  nn1_0:
+    f_max:
+      - "`Network:nn1"
+      - "80"
+    r_min:
+      - "1.4286"
+      - "350"
+  nn1_1:
+    f_max:
+      - "`Network:nn1"
+      - "85"
+    r_min:
+      - "2.0"
+      - "350"
+  nn1_2:
+    f_max:
+      - "`Network:nn1"
+      - "85"
+    r_min:
+      - "1.25"
+      - "500"
+
+  nn2_0:
+    f_max:
+      - "`Network:nn2"
+      - "80"
+    r_min:
+      - "1.4286"
+      - "350"
+  nn2_1:
+    f_max:
+      - "`Network:nn2"
+      - "85"
+    r_min:
+      - "2.0"
+      - "350"
+  nn2_2:
+    f_max:
+      - "`Network:nn2"
+      - "85"
+    r_min:
+      - "1.25"
+      - "500"
+
+  nn3_0:
+    f_max:
+      - "`Network:nn3"
+      - "80"
+    r_min:
+      - "1.4286"
+      - "350"
+  nn3_1:
+    f_max:
+      - "`Network:nn3"
+      - "85"
+    r_min:
+      - "2.0"
+      - "350"
+  nn3_2:
+    f_max:
+      - "`Network:nn3"
+      - "85"
+    r_min:
+      - "1.25"
+      - "500"
+
+  nn4_0:
+    f_max:
+      - "`Network:nn4"
+      - "80"
+    r_min:
+      - "1.4286"
+      - "350"
+  nn4_1:
+    f_max:
+      - "`Network:nn4"
+      - "85"
+    r_min:
+      - "2.0"
+      - "350"
+  nn4_2:
+    f_max:
+      - "`Network:nn4"
+      - "85"
+    r_min:
+      - "1.25"
+      - "500"
+
+  nn5_0:
+    f_max:
+      - "`Network:nn5"
+      - "80"
+    r_min:
+      - "1.4286"
+      - "350"
+  nn5_1:
+    f_max:
+      - "`Network:nn5"
+      - "85"
+    r_min:
+      - "2.0"
+      - "350"
+  nn5_2:
+    f_max:
+      - "`Network:nn5"
+      - "85"
+    r_min:
+      - "1.25"
+      - "500"
+
+  nn6_0:
+    f_max:
+      - "`Network:nn6"
+      - "80"
+    r_min:
+      - "1.4286"
+      - "350"
+  nn6_1:
+    f_max:
+      - "`Network:nn6"
+      - "85"
+    r_min:
+      - "2.0"
+      - "350"
+  nn6_2:
+    f_max:
+      - "`Network:nn6"
+      - "85"
+    r_min:
+      - "1.25"
+      - "500"
+
+  nn7_0:
+    f_max:
+      - "`Network:nn7"
+      - "80"
+    r_min:
+      - "1.4286"
+      - "350"
+  nn7_1:
+    f_max:
+      - "`Network:nn7"
+      - "85"
+    r_min:
+      - "2.0"
+      - "350"
+  nn7_2:
+    f_max:
+      - "`Network:nn7"
+      - "85"
+    r_min:
+      - "1.25"
+      - "500"
+
+  nn8_0:
+    f_max:
+      - "`Network:nn8"
+      - "80"
+    r_min:
+      - "1.4286"
+      - "350"
+  nn8_1:
+    f_max:
+      - "`Network:nn8"
+      - "85"
+    r_min:
+      - "2.0"
+      - "350"
+  nn8_2:
+    f_max:
+      - "`Network:nn8"
+      - "85"
+    r_min:
+      - "1.25"
+      - "500"
+
+  nn9_0:
+    f_max:
+      - "`Network:nn9"
+      - "80"
+    r_min:
+      - "1.4286"
+      - "350"
+  nn9_1:
+    f_max:
+      - "`Network:nn9"
+      - "85"
+    r_min:
+      - "2.0"
+      - "350"
+  nn9_2:
+    f_max:
+      - "`Network:nn9"
+      - "85"
+    r_min:
+      - "1.25"
+      - "500"

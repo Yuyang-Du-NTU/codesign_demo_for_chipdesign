@@ -1,0 +1,10 @@
+dp{
+    # global req & pro
+    requires Computation__time__reqInput_time [dimensionless]
+    provides Computation__time__proOutput_time [dimensionless]
+
+    # database
+    implemented-by yaml resource("Computation__time.yaml")
+}
+
+#mcdp-solve -d test_computation.mcdplib Computation__time '900' --imp --plot --out 'test_computation.mcdplib.outputs'

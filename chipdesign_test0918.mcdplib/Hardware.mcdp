@@ -1,0 +1,22 @@
+
+mcdp{
+    Hardware__solver =  instance `Hardware__solver
+    # global req & pro
+    requires Hardware__self__reqPossibility [dimensionless]
+    requires Hardware__self__reqTime [dimensionless]
+    requires Hardware__self__reqLayers [`Network]
+
+    provides Hardware__self__proArea [dimensionless]
+    provides Hardware__self__proEnergy [dimensionless]
+    provides Hardware__self__proLatency [dimensionless]
+
+    required Hardware__self__reqPossibility >= Hardware__solver__reqPossibility required by Hardware__solver
+    required Hardware__self__reqTime >= Hardware__solver__reqTime required by Hardware__solver
+    required Hardware__self__reqLayers >= Hardware__solver__reqLayers required by Hardware__solver
+    
+    provided Hardware__self__proArea <= Hardware__solver__proArea        provided by Hardware__solver
+    provided Hardware__self__proEnergy <= Hardware__solver__proEnergy        provided by Hardware__solver
+    provided Hardware__self__proLatency <= Hardware__solver__proLatency        provided by Hardware__solver
+}
+
+# mcdp-solve -d chipdesign_test0918.mcdplib Hardware '<10,10,10>' --imp --plot --out 'chipdesign_test0918.mcdplib.outputs' --nocache --lower '10' --upper '10'

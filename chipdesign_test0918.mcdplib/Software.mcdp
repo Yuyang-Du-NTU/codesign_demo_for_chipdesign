@@ -1,0 +1,14 @@
+
+dp{
+    # global req & pro
+    requires Software__self__reqPossibility [dimensionless]
+    requires Software__self__reqTime [dimensionless]
+
+    provides Software__self__proLayers [`Network]
+    provides Software__self__proAccuracy [dimensionless]
+
+    # database
+    implemented-by yaml resource("Software.yaml")
+}
+
+# mcdp-solve -d test_software.mcdplib Software '<`Network:nn5, 82>' --imp --plot --out 'test_software.mcdplib.outputs' --nocache --lower '10' --upper '10'

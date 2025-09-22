@@ -1,0 +1,16 @@
+
+dp{
+    # global req & pro
+    requires Hardware__solver__reqPossibility [dimensionless]
+    requires Hardware__solver__reqTime [dimensionless]
+    requires Hardware__solver__reqLayers [`Network]
+    
+    provides Hardware__solver__proArea [dimensionless]
+    provides Hardware__solver__proEnergy [dimensionless]
+    provides Hardware__solver__proLatency [dimensionless]
+
+    # database
+    implemented-by yaml resource("Hardware__solver.yaml")
+}
+
+# mcdp-solve -d chipdesign_test0918.mcdplib Hardware__solver '<10,10,10>' --imp --plot --out 'chipdesign_test0918.mcdplib.outputs' --nocache --lower '10' --upper '10'

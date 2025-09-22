@@ -1,0 +1,46 @@
+F:
+  - "dimensionless"       # Fab__self__proNumber_yield
+R:
+  - "dimensionless"       # Fab__self__reqPossibility
+  - "dimensionless"       # Fab__self__reqCost
+  - "dimensionless"       # Fab__self__reqHardware__proArea
+implementations:
+  imp0:
+    f_max:
+      - "10"
+    r_min:
+      - "1.4286"
+      - "3500"
+      - "6"
+
+  imp1:
+    f_max:
+      - "10"
+    r_min:
+      - "10.0"
+      - "3500"
+      - "5"
+
+  imp2:
+    f_max:
+      - "8"
+    r_min:
+      - "5.0"
+      - "3500"
+      - "9"
+
+  imp3:
+    f_max:
+      - "12"
+    r_min:
+      - "3.3333"
+      - "3500"
+      - "7"
+
+  imp4:
+    f_max:
+      - "6"
+    r_min:
+      - "2.5"
+      - "3500"
+      - "5"
